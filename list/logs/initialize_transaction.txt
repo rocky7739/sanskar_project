@@ -1,0 +1,400 @@
+
+////////////17-Mar-2021, 05:43:12 PM/////////////
+Time: 2021-03-17, 17:43:12
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Transaction/initialize_transaction
+Request {"user_id":"21758","plan_id":"6","amount":"76","pay_via":"0","device_type":"1","validity":"180","currency":"INR","coupon_applied":"6"}
+
+////////////17-Mar-2021, 05:43:31 PM/////////////
+Time: 2021-03-17, 17:43:31
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Transaction/initialize_transaction
+Request {"user_id":"13256","plan_id":"3","amount":"95","pay_via":"0","device_type":"1","validity":"365","currency":"INR","coupon_applied":"6"}
+
+////////////17-Mar-2021, 05:43:35 PM/////////////
+Time: 2021-03-17, 17:43:35
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Transaction/initialize_transaction
+Request {"user_id":"21758","plan_id":"6","amount":"70","pay_via":"0","device_type":"1","validity":"180","currency":"INR","coupon_applied":"5"}
+
+////////////17-Mar-2021, 05:43:57 PM/////////////
+Time: 2021-03-17, 17:43:57
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Transaction/initialize_transaction
+Request {"user_id":"21758","plan_id":"3","amount":"90","pay_via":"0","device_type":"1","validity":"365","currency":"INR","coupon_applied":"5"}
+
+////////////17-Mar-2021, 05:48:09 PM/////////////
+Time: 2021-03-17, 17:48:09
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Transaction/initialize_transaction
+Request {"user_id":"21758","plan_id":"3","amount":"90","pay_via":"0","device_type":"1","validity":"365","currency":"INR","coupon_applied":"8"}
+
+////////////17-Mar-2021, 05:52:14 PM/////////////
+Time: 2021-03-17, 17:52:14
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Transaction/initialize_transaction
+Request {"user_id":"21758","plan_id":"3","amount":"80","pay_via":"0","device_type":"1","validity":"365","currency":"INR","coupon_applied":"10"}
+
+////////////17-Mar-2021, 05:52:53 PM/////////////
+Time: 2021-03-17, 17:52:53
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Transaction/initialize_transaction
+Request {"user_id":"21758","plan_id":"3","amount":"75","pay_via":"0","device_type":"1","validity":"365","currency":"INR","coupon_applied":"11"}
+
+////////////17-Mar-2021, 05:53:23 PM/////////////
+Time: 2021-03-17, 17:53:23
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Transaction/initialize_transaction
+Request {"user_id":"21758","plan_id":"3","amount":"90","pay_via":"0","device_type":"1","validity":"365","currency":"INR","coupon_applied":"8"}
+
+////////////17-Mar-2021, 05:54:37 PM/////////////
+Time: 2021-03-17, 17:54:37
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Transaction/initialize_transaction
+Request {"user_id":"21758","plan_id":"3","amount":"90","pay_via":"0","device_type":"1","validity":"365","currency":"INR","coupon_applied":"8"}
+
+////////////17-Mar-2021, 05:54:52 PM/////////////
+Time: 2021-03-17, 17:54:52
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Transaction/initialize_transaction
+Request {"user_id":"21758","plan_id":"3","amount":"85","pay_via":"0","device_type":"1","validity":"365","currency":"INR","coupon_applied":"7"}
+
+////////////17-Mar-2021, 05:55:50 PM/////////////
+Time: 2021-03-17, 17:55:50
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Transaction/initialize_transaction
+Request {"user_id":"21758","plan_id":"3","amount":"90","pay_via":"0","device_type":"1","validity":"365","currency":"INR","coupon_applied":"5"}
+
+////////////17-Mar-2021, 05:56:04 PM/////////////
+Time: 2021-03-17, 17:56:04
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Transaction/initialize_transaction
+Request {"user_id":"21758","plan_id":"3","amount":"90","pay_via":"0","device_type":"1","validity":"365","currency":"INR","coupon_applied":"5"}
+
+////////////17-Mar-2021, 05:58:22 PM/////////////
+Time: 2021-03-17, 17:58:22
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Transaction/initialize_transaction
+Request {"user_id":"13256","plan_id":"1","amount":"30","pay_via":"0","device_type":"1","validity":"30","currency":"INR","coupon_applied":""}
+
+////////////17-Mar-2021, 06:04:13 PM/////////////
+Time: 2021-03-17, 18:04:13
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Transaction/initialize_transaction
+Request {"user_id":"21758","plan_id":"3","amount":"82","pay_via":"0","device_type":"1","validity":"365","currency":"INR","coupon_applied":"15"}
+
+////////////17-Mar-2021, 06:08:28 PM/////////////
+Time: 2021-03-17, 18:08:28
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Transaction/initialize_transaction
+Request {"user_id":"21705","plan_id":"2","amount":"42","pay_via":"0","device_type":"1","validity":"60","currency":"INR","coupon_applied":"15"}
+
+////////////17-Mar-2021, 06:10:08 PM/////////////
+Time: 2021-03-17, 18:10:08
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Transaction/initialize_transaction
+Request {"user_id":"21705","plan_id":"2","amount":"54","pay_via":"0","device_type":"1","validity":"60","currency":"INR","coupon_applied":"13"}
+
+////////////17-Mar-2021, 06:10:28 PM/////////////
+Time: 2021-03-17, 18:10:28
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Transaction/initialize_transaction
+Request {"user_id":"21758","plan_id":"3","amount":"90","pay_via":"0","device_type":"1","validity":"365","currency":"INR","coupon_applied":"13"}
+
+////////////17-Mar-2021, 06:10:53 PM/////////////
+Time: 2021-03-17, 18:10:53
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Transaction/initialize_transaction
+Request {"user_id":"21758","plan_id":"3","amount":"95","pay_via":"0","device_type":"1","validity":"365","currency":"INR","coupon_applied":"12"}
+
+////////////17-Mar-2021, 06:11:10 PM/////////////
+Time: 2021-03-17, 18:11:10
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Transaction/initialize_transaction
+Request {"user_id":"21705","plan_id":"1","amount":"12","pay_via":"0","device_type":"1","validity":"30","currency":"INR","coupon_applied":"15"}
+
+////////////17-Mar-2021, 06:24:06 PM/////////////
+Time: 2021-03-17, 18:24:06
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Transaction/initialize_transaction
+Request {"user_id":"13256","plan_id":"1","amount":"12","pay_via":"0","device_type":"1","validity":"30","currency":"INR","coupon_applied":"15"}
+
+////////////17-Mar-2021, 06:25:20 PM/////////////
+Time: 2021-03-17, 18:25:20
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Transaction/initialize_transaction
+Request {"user_id":"13256","plan_id":"1","amount":"12","pay_via":"0","device_type":"1","validity":"30","currency":"INR","coupon_applied":"15"}
+
+////////////17-Mar-2021, 06:26:31 PM/////////////
+Time: 2021-03-17, 18:26:31
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Transaction/initialize_transaction
+Request {"user_id":"13256","plan_id":"1","amount":"12","pay_via":"0","device_type":"1","validity":"30","currency":"INR","coupon_applied":"15"}
+
+////////////17-Mar-2021, 06:26:48 PM/////////////
+Time: 2021-03-17, 18:26:48
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Transaction/initialize_transaction
+Request {"user_id":"13256","plan_id":"1","amount":"12","pay_via":"0","device_type":"1","validity":"30","currency":"INR","coupon_applied":"15"}
+
+////////////17-Mar-2021, 06:27:51 PM/////////////
+Time: 2021-03-17, 18:27:51
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Transaction/initialize_transaction
+Request {"user_id":"13256","plan_id":"1","amount":"12","pay_via":"0","device_type":"1","validity":"30","currency":"INR","coupon_applied":"15"}
+
+////////////17-Mar-2021, 06:29:19 PM/////////////
+Time: 2021-03-17, 18:29:19
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Transaction/initialize_transaction
+Request {"user_id":"13256","plan_id":"1","amount":"12","pay_via":"0","device_type":"1","validity":"30","currency":"INR","coupon_applied":"15"}
+
+////////////17-Mar-2021, 06:30:22 PM/////////////
+Time: 2021-03-17, 18:30:22
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Transaction/initialize_transaction
+Request {"user_id":"13256","plan_id":"1","amount":"12","pay_via":"0","device_type":"1","validity":"30","currency":"INR","coupon_applied":"15"}
+
+////////////17-Mar-2021, 06:30:35 PM/////////////
+Time: 2021-03-17, 18:30:35
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Transaction/initialize_transaction
+Request {"user_id":"13256","plan_id":"1","amount":"12","pay_via":"0","device_type":"1","validity":"30","currency":"INR","coupon_applied":"15"}
+
+////////////17-Mar-2021, 06:30:51 PM/////////////
+Time: 2021-03-17, 18:30:51
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Transaction/initialize_transaction
+Request {"user_id":"13256","plan_id":"1","amount":"12","pay_via":"0","device_type":"1","validity":"30","currency":"INR","coupon_applied":"15"}
+
+////////////17-Mar-2021, 06:31:17 PM/////////////
+Time: 2021-03-17, 18:31:17
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Transaction/initialize_transaction
+Request {"user_id":"13256","plan_id":"1","amount":"12","pay_via":"0","device_type":"1","validity":"30","currency":"INR","coupon_applied":"15"}
+
+////////////17-Mar-2021, 06:31:22 PM/////////////
+Time: 2021-03-17, 18:31:22
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Transaction/initialize_transaction
+Request {"user_id":"13256","plan_id":"1","amount":"12","pay_via":"0","device_type":"1","validity":"30","currency":"INR","coupon_applied":"14"}
+
+////////////17-Mar-2021, 06:31:39 PM/////////////
+Time: 2021-03-17, 18:31:39
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Transaction/initialize_transaction
+Request {"user_id":"13256","plan_id":"1","amount":"12","pay_via":"0","device_type":"1","validity":"30","currency":"INR","coupon_applied":"15"}
+
+////////////17-Mar-2021, 06:31:52 PM/////////////
+Time: 2021-03-17, 18:31:52
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Transaction/initialize_transaction
+Request {"user_id":"13256","plan_id":"1","amount":"12","pay_via":"0","device_type":"1","validity":"30","currency":"INR","coupon_applied":"15"}
+
+////////////17-Mar-2021, 06:33:43 PM/////////////
+Time: 2021-03-17, 18:33:43
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Transaction/initialize_transaction
+Request {"user_id":"21758","plan_id":"3","amount":"82","pay_via":"0","device_type":"1","validity":"365","currency":"INR","coupon_applied":"15"}
+
+////////////17-Mar-2021, 06:45:45 PM/////////////
+Time: 2021-03-17, 18:45:45
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Transaction/initialize_transaction
+Request {"user_id":"21762","plan_id":"3","amount":"100","pay_via":"0","device_type":"1","validity":"365","currency":"INR","coupon_applied":""}
+
+////////////17-Mar-2021, 06:50:32 PM/////////////
+Time: 2021-03-17, 18:50:32
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Transaction/initialize_transaction
+Request {"user_id":"21772","plan_id":"3","amount":"100","pay_via":"0","device_type":"1","validity":"365","currency":"INR","coupon_applied":""}
+
+////////////18-Mar-2021, 08:30:34 AM/////////////
+Time: 2021-03-18, 08:30:34
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Transaction/initialize_transaction
+Request {"user_id":"21705","plan_id":"2","amount":"50","pay_via":"0","device_type":"1","validity":"60","currency":"INR","coupon_applied":"5"}
+
+////////////18-Mar-2021, 09:47:08 AM/////////////
+Time: 2021-03-18, 09:47:08
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Transaction/initialize_transaction
+Request {"user_id":"21705","plan_id":"1","amount":"26","pay_via":"0","device_type":"1","validity":"30","currency":"INR","coupon_applied":"14"}
+
+////////////18-Mar-2021, 10:34:05 AM/////////////
+Time: 2021-03-18, 10:34:05
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Transaction/initialize_transaction
+Request {"user_id":"21705","plan_id":"2","amount":"60","pay_via":"0","device_type":"1","validity":"60","currency":"INR","coupon_applied":""}
+
+////////////18-Mar-2021, 02:09:46 PM/////////////
+Time: 2021-03-18, 14:09:46
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Transaction/initialize_transaction
+Request {"user_id":"13256","plan_id":"1","amount":"30","pay_via":"0","device_type":"1","validity":"30","currency":"INR","coupon_applied":""}
+
+////////////18-Mar-2021, 02:51:32 PM/////////////
+Time: 2021-03-18, 14:51:32
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Transaction/initialize_transaction
+Request {"user_id":"21705","plan_id":"1","amount":"20","pay_via":"0","device_type":"1","validity":"30","currency":"INR","coupon_applied":"5"}
+
+////////////18-Mar-2021, 03:18:59 PM/////////////
+Time: 2021-03-18, 15:18:59
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Transaction/initialize_transaction
+Request {"user_id":"21705","plan_id":"2","amount":"50","pay_via":"0","device_type":"1","validity":"60","currency":"INR","coupon_applied":"5"}
+
+////////////18-Mar-2021, 03:32:14 PM/////////////
+Time: 2021-03-18, 15:32:14
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Transaction/initialize_transaction
+Request {"user_id":"21705","plan_id":"2","amount":"50","pay_via":"0","device_type":"1","validity":"60","currency":"INR","coupon_applied":"5"}
+
+////////////18-Mar-2021, 04:08:25 PM/////////////
+Time: 2021-03-18, 16:08:25
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Transaction/initialize_transaction
+Request {"user_id":"21758","plan_id":"1","amount":"27","pay_via":"0","device_type":"1","validity":"30","currency":"INR","coupon_applied":"8"}
+
+////////////18-Mar-2021, 04:12:06 PM/////////////
+Time: 2021-03-18, 16:12:06
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Transaction/initialize_transaction
+Request {"user_id":"21705","plan_id":"1","amount":"1","pay_via":"0","device_type":"1","validity":"30","currency":"INR","coupon_applied":""}
+
+////////////18-Mar-2021, 04:21:22 PM/////////////
+Time: 2021-03-18, 16:21:22
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Transaction/initialize_transaction
+Request {"user_id":"21705","plan_id":"1","amount":"1","pay_via":"0","device_type":"1","validity":"30","currency":"INR","coupon_applied":""}
+
+////////////18-Mar-2021, 04:26:06 PM/////////////
+Time: 2021-03-18, 16:26:06
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Transaction/initialize_transaction
+Request {"user_id":"21705","plan_id":"1","amount":"1","pay_via":"0","device_type":"1","validity":"30","currency":"INR","coupon_applied":""}
+
+////////////18-Mar-2021, 05:08:10 PM/////////////
+Time: 2021-03-18, 17:08:10
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Transaction/initialize_transaction
+Request {"user_id":"21705","plan_id":"2","amount":"54","pay_via":"0","device_type":"1","validity":"60","currency":"INR","coupon_applied":"8"}
+
+////////////18-Mar-2021, 11:26:39 PM/////////////
+Time: 2021-03-18, 23:26:39
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Transaction/initialize_transaction
+Request {"amount":"80","pay_via":"0","validity":"180","user_id":"21762","currency":"INR","device_type":"2","plan_id":"6"}
+
+////////////19-Mar-2021, 04:49:02 PM/////////////
+Time: 2021-03-19, 16:49:02
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Transaction/initialize_transaction
+Request {"currency":"INR","validity":"180","pay_via":"0","plan_id":"6","amount":"80","user_id":"21762","device_type":"2"}
+
+////////////20-Mar-2021, 09:00:27 PM/////////////
+Time: 2021-03-20, 21:00:27
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Transaction/initialize_transaction
+Request {"user_id":"21762","pay_via":"0","plan_id":"3","amount":"100","device_type":"2","currency":"INR","validity":"365"}
+
+////////////20-Mar-2021, 10:30:28 PM/////////////
+Time: 2021-03-20, 22:30:28
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Transaction/initialize_transaction
+Request {"pay_via":"0","plan_id":"3","user_id":"21762","device_type":"2","validity":"365","amount":"90","currency":"INR"}
+
+////////////20-Mar-2021, 10:32:50 PM/////////////
+Time: 2021-03-20, 22:32:50
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Transaction/initialize_transaction
+Request {"amount":"90","currency":"INR","validity":"365","device_type":"2","pay_via":"0","user_id":"21762","plan_id":"3"}
+
+////////////20-Mar-2021, 10:33:20 PM/////////////
+Time: 2021-03-20, 22:33:20
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Transaction/initialize_transaction
+Request {"amount":"90","device_type":"2","pay_via":"0","currency":"INR","plan_id":"3","validity":"365","user_id":"21762"}
+
+////////////21-Mar-2021, 10:46:34 AM/////////////
+Time: 2021-03-21, 10:46:34
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Transaction/initialize_transaction
+Request {"amount":"70","pay_via":"0","coupon_applied":" ","plan_id":"6","validity":"180","user_id":"21762","device_type":"2","currency":"INR"}
+
+////////////21-Mar-2021, 11:12:09 AM/////////////
+Time: 2021-03-21, 11:12:09
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Transaction/initialize_transaction
+Request {"currency":"INR","amount":"100","pay_via":"0","device_type":"2","validity":"365","user_id":"21762","coupon_applied":"","plan_id":"3"}
+
+////////////21-Mar-2021, 11:13:03 AM/////////////
+Time: 2021-03-21, 11:13:03
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Transaction/initialize_transaction
+Request {"coupon_applied":"14","pay_via":"0","plan_id":"3","amount":"85","device_type":"2","currency":"INR","user_id":"21762","validity":"365"}
+
+////////////23-Mar-2021, 03:29:53 PM/////////////
+Time: 2021-03-23, 15:29:53
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Transaction/initialize_transaction
+Request {"device_type":"2","currency":"INR","coupon_applied":"5","user_id":"7189","amount":"90","validity":"365","pay_via":"0","plan_id":"3"}
+
+////////////23-Mar-2021, 03:31:59 PM/////////////
+Time: 2021-03-23, 15:31:59
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Transaction/initialize_transaction
+Request {"user_id":"7189","plan_id":"3","amount":"85","pay_via":"0","device_type":"2","currency":"INR","coupon_applied":"14","validity":"365"}
+
+////////////23-Mar-2021, 11:32:28 PM/////////////
+Time: 2021-03-23, 23:32:28
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Transaction/initialize_transaction
+Request {"user_id":"4687","device_type":"2","coupon_applied":"","amount":"1","plan_id":"1","currency":"INR","validity":"30","pay_via":"0"}
+
+////////////23-Mar-2021, 11:42:23 PM/////////////
+Time: 2021-03-23, 23:42:23
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Transaction/initialize_transaction
+Request {"validity":"30","pay_via":"0","currency":"INR","coupon_applied":"","device_type":"2","plan_id":"1","user_id":"4687","amount":"1"}
+
+////////////24-Mar-2021, 12:06:02 PM/////////////
+Time: 2021-03-24, 12:06:02
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Transaction/initialize_transaction
+Request {"user_id":"21705","plan_id":"1","amount":"1","pay_via":"0","device_type":"1","validity":"30","currency":"INR","coupon_applied":""}
+
+////////////24-Mar-2021, 01:11:47 PM/////////////
+Time: 2021-03-24, 13:11:47
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Transaction/initialize_transaction
+Request {"user_id":"7189","plan_id":"2","amount":"51","pay_via":"0","device_type":"1","validity":"60","currency":"INR","coupon_applied":"14"}
+
+////////////24-Mar-2021, 04:57:00 PM/////////////
+Time: 2021-03-24, 16:57:00
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Transaction/initialize_transaction
+Request {"user_id":"7189","plan_id":"2","amount":"51","pay_via":"0","device_type":"1","validity":"60","currency":"INR","coupon_applied":"14"}
+
+////////////24-Mar-2021, 04:57:05 PM/////////////
+Time: 2021-03-24, 16:57:05
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Transaction/initialize_transaction
+Request {"user_id":"7189","plan_id":"2","amount":"54","pay_via":"0","device_type":"1","validity":"60","currency":"INR","coupon_applied":"8"}
+
+////////////24-Mar-2021, 05:03:07 PM/////////////
+Time: 2021-03-24, 17:03:07
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Transaction/initialize_transaction
+Request {"user_id":"21772","plan_id":"2","amount":"51","pay_via":"0","device_type":"1","validity":"60","currency":"INR","coupon_applied":"14"}
+
+////////////24-Mar-2021, 05:08:19 PM/////////////
+Time: 2021-03-24, 17:08:19
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Transaction/initialize_transaction
+Request {"user_id":"21771","plan_id":"2","amount":"50","pay_via":"0","device_type":"1","validity":"60","currency":"INR","coupon_applied":"5"}
+
+////////////24-Mar-2021, 05:38:29 PM/////////////
+Time: 2021-03-24, 17:38:29
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Transaction/initialize_transaction
+Request {"user_id":"7189","plan_id":"2","amount":"54","pay_via":"0","device_type":"1","validity":"60","currency":"INR","coupon_applied":"8"}
+
+////////////24-Mar-2021, 05:39:41 PM/////////////
+Time: 2021-03-24, 17:39:41
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Transaction/initialize_transaction
+Request {"user_id":"7189","plan_id":"2","amount":"50","pay_via":"0","device_type":"1","validity":"60","currency":"INR","coupon_applied":"5"}
+
+////////////24-Mar-2021, 05:42:20 PM/////////////
+Time: 2021-03-24, 17:42:20
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Transaction/initialize_transaction
+Request {"user_id":"7189","plan_id":"1","amount":"-9","pay_via":"0","device_type":"1","validity":"30","currency":"INR","coupon_applied":"5"}
+
+////////////24-Mar-2021, 05:42:23 PM/////////////
+Time: 2021-03-24, 17:42:23
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Transaction/initialize_transaction
+Request {"user_id":"7189","plan_id":"1","amount":"1","pay_via":"0","device_type":"1","validity":"30","currency":"INR","coupon_applied":"8"}
+
+////////////25-Mar-2021, 01:22:51 PM/////////////
+Time: 2021-03-25, 13:22:51
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Transaction/initialize_transaction
+Request {"user_id":"21758","plan_id":"2","amount":"54","pay_via":"0","device_type":"1","validity":"60","currency":"INR","coupon_applied":"8"}
+
+////////////25-Mar-2021, 02:41:20 PM/////////////
+Time: 2021-03-25, 14:41:20
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Transaction/initialize_transaction
+Request {"currency":"INR","coupon_applied":"","user_id":"21773","plan_id":"6","amount":"80","device_type":"2","pay_via":"0","validity":"180"}
+
+////////////25-Mar-2021, 03:54:58 PM/////////////
+Time: 2021-03-25, 15:54:58
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Transaction/initialize_transaction
+Request {"user_id":"21758","plan_id":"1","amount":"1","pay_via":"0","device_type":"1","validity":"30","currency":"INR","coupon_applied":"8"}
+
+////////////25-Mar-2021, 06:02:26 PM/////////////
+Time: 2021-03-25, 18:02:26
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Transaction/initialize_transaction
+Request {"pay_via":"0","validity":"60","coupon_applied":"14","user_id":"21767","plan_id":"2","device_type":"2","currency":"INR","amount":"51"}
+
+////////////01-Apr-2021, 02:06:17 PM/////////////
+Time: 2021-04-01, 14:06:17
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Transaction/initialize_transaction
+Request {"user_id":"21776","plan_id":"1","amount":"-9","pay_via":"0","device_type":"1","validity":"30","currency":"INR","coupon_applied":"5"}
+
+////////////01-Apr-2021, 02:06:52 PM/////////////
+Time: 2021-04-01, 14:06:52
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Transaction/initialize_transaction
+Request {"user_id":"21776","plan_id":"1","amount":"1","pay_via":"0","device_type":"1","validity":"30","currency":"INR","coupon_applied":""}
+
+////////////01-Apr-2021, 02:08:19 PM/////////////
+Time: 2021-04-01, 14:08:19
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Transaction/initialize_transaction
+Request {"user_id":"21776","plan_id":"1","amount":"1","pay_via":"0","device_type":"1","validity":"30","currency":"INR","coupon_applied":""}
+
+////////////01-Apr-2021, 04:50:20 PM/////////////
+Time: 2021-04-01, 16:50:20
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Transaction/initialize_transaction
+Request {"pay_via":"0","amount":"-9","currency":"INR","plan_id":"1","coupon_applied":"5","device_type":"2","validity":"30","user_id":"21767"}
+
+////////////03-Apr-2021, 05:28:32 PM/////////////
+Time: 2021-04-03, 17:28:32
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Transaction/initialize_transaction
+Request {"user_id":"21759","plan_id":"1","amount":"-9","pay_via":"0","device_type":"1","validity":"30","currency":"INR","coupon_applied":"5"}
+
+////////////03-Apr-2021, 05:28:44 PM/////////////
+Time: 2021-04-03, 17:28:44
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Transaction/initialize_transaction
+Request {"user_id":"21759","plan_id":"2","amount":"60","pay_via":"0","device_type":"1","validity":"60","currency":"INR","coupon_applied":"5"}

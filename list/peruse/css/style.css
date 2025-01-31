@@ -1,0 +1,220 @@
+body{
+	background-color: #fff;
+}
+.header{
+	background-color: #009899;
+	padding: 30px 50px;
+	margin-top: 30px;
+}
+.header h1{
+	color: #fff;
+    text-align: center;
+}
+
+.header h4{
+	color: #ffce00;
+}
+.header p{
+	color: #fff;
+	font-style: italic;
+}
+.sigin{
+	padding: 10px 10px;
+	float: right;
+}
+.sigup{
+	padding: 10px 10px;
+	float: right;
+}
+.btn-color{
+	background-color: #008083;
+	
+	border:1px solid #fdc526 !important;
+	border-radius: 0px; !important;
+}
+.btn-color p{
+	color: #fdc526;
+	font-style: normal;
+	margin:0px 20px 4px;
+}
+.hero-contant{
+	margin:50px 0px;
+	font-style: italic;
+}
+.hero-contant p{
+   color: #009899;
+   font-weight: bold;
+}
+.how-its-work{
+	margin:0px auto;
+}
+.btn-how-its-work{
+	margin:0px auto;
+}
+.steps{
+	margin-top: 25px;
+}
+.steps h5{
+	color: #009899;
+	font-style: italic;
+}
+.step{
+	border:2px solid #009899;
+	height: 110px;
+	width: 20%;	
+	display: inline-block;	
+	margin: 16px 13px;
+}
+.step-buttom{
+	background-color:#009899;
+	height: 33px; 
+	width: 97%;
+	margin-left: 2px;
+	xposition: relative;
+	margin-top: 60px;
+}
+.step-buttom h5{
+  margin:72px auto;
+  color: #fdc526;
+  font-size: 15px;
+  display: block;
+  xposition: absolute;
+  text-align: -webkit-center;
+}
+.video{
+	margin-top: 25px;
+}
+.video h4{
+	text-decoration: underline;
+	color: #009899;
+	font-size: 18px;
+}
+.play-video{
+	width: 98%;
+    height: 300px;
+    border: 2px solid #009899;
+    margin-top: 40px;
+}
+.free-account h4{
+  text-decoration: underline;
+	color: #009899;
+	font-size: 18px;
+	padding: 25px 2px;
+}
+.heading h4{
+	color: #146368;
+	text-decoration: none;
+	font-weight: bold;
+}
+.heading p{
+	color: #009899;
+}
+.footer{
+	background-color: #009899;
+}
+.copyright{
+ margin-top: 25px;
+}
+.copyright p{
+    color: #fff;
+    text-align: center;
+    padding: 30px;
+}
+/*-----login form---*/
+.login-form{
+	margin-top: 45px;
+}
+.login-form h2{
+	color: #009899;
+	font-size: 24px;
+	font-weight: bolder;
+}
+.login-form h2 span{
+	color: #009899;
+	font-style: italic;
+	font-size: 15px;
+	font-weight: lighter;
+}
+.form-sign{
+	margin-top: 45px;
+}
+.form-sign h2{
+	color: #009899;
+	font-size: 24px;
+	font-weight: bolder;
+}
+.form-sign h2 span{
+	color: #009899;
+	font-style: italic;
+	font-size: 15px;
+	font-weight: lighter;
+}
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+/* Set a style for all buttons */
+button {
+    xbackground-color: #4CAF50;
+    xcolor: white;
+    xpadding: 14px 20px;
+    xmargin: 8px 0;
+    xborder: none;
+    cursor: pointer;
+    xwidth: 100%;
+}
+
+/* Extra styles for the cancel button */
+.cancelbtn {
+    background-color: #4267b2;
+    font-size: 12px;
+    color: #fff;
+    padding: 12px 10px;
+    border: none;
+}
+.signupbtn{
+	padding: 12px 10px;
+	background-color: #fd5632;
+	font-size: 12px;
+	margin-left: 25px;
+	color: #fff;
+	border: none;
+}
+
+/* Float cancel and signup buttons and add an equal width */
+.cancelbtn,.signupbtn {
+    float: left;
+    width: 45%;
+    xmargin-left: 10px;
+}
+
+/* Add padding to container elements */
+.container {
+    padding: 16px;
+}
+
+/* Clear floats */
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+/* Change styles for cancel button and signup button on extra small screens */
+@media screen and (max-width: 300px) {
+    .cancelbtn, .signupbtn {
+       width: 100%;
+    }
+}
+.form-sign{
+	margin-top: 40px;
+}
+.signin a{
+	color: #008083;
+	font-style: italic;
+}

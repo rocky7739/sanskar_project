@@ -1,0 +1,5 @@
+
+////////////06-Apr-2021, 12:32:56 PM/////////////
+Time: 2021-04-06, 12:32:56
+url: https://app.sanskargroup.in/sanskar_development/api_panel/User/login_authentication
+Request {"country_code":"+93","mobile":"san000chdhr@gmail.com","login_with":"1","login_type":"0","device_type":"3","device_model":"Sony BRAVIA 2K GB ATV3","device_id":"964c41799a82ae42"}

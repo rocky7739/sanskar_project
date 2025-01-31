@@ -1,0 +1,215 @@
+
+////////////07-Dec-2021, 02:27:26 PM/////////////
+Time: 2021-12-07, 14:27:26
+url: http://sep.sanskargroup.in/api_panel/User/first_dose_vaccination
+Request {"EmpCode":"SANS-00290"}
+
+////////////07-Dec-2021, 02:28:04 PM/////////////
+Time: 2021-12-07, 14:28:04
+url: http://sep.sanskargroup.in/api_panel/User/first_dose_vaccination
+Request {"EmpCode":"SANS-00290"}
+
+////////////07-Dec-2021, 02:28:16 PM/////////////
+Time: 2021-12-07, 14:28:16
+url: http://sep.sanskargroup.in/api_panel/User/first_dose_vaccination
+Request {"EmpCode":"SANS-00290"}
+
+////////////07-Dec-2021, 02:53:12 PM/////////////
+Time: 2021-12-07, 14:53:12
+url: http://sep.sanskargroup.in/api_panel/User/first_dose_vaccination
+Request {"EmpCode":"SANS-00290"}
+
+////////////07-Dec-2021, 02:53:56 PM/////////////
+Time: 2021-12-07, 14:53:56
+url: http://sep.sanskargroup.in/api_panel/User/first_dose_vaccination
+Request {"EmpCode":"SANS-00290"}
+
+////////////07-Dec-2021, 02:54:21 PM/////////////
+Time: 2021-12-07, 14:54:21
+url: http://sep.sanskargroup.in/api_panel/User/first_dose_vaccination
+Request {"EmpCode":"SANS-00250"}
+
+////////////07-Dec-2021, 02:54:42 PM/////////////
+Time: 2021-12-07, 14:54:42
+url: http://sep.sanskargroup.in/api_panel/User/first_dose_vaccination
+Request {"EmpCode":"SANS-00290"}
+
+////////////07-Dec-2021, 02:56:14 PM/////////////
+Time: 2021-12-07, 14:56:14
+url: http://sep.sanskargroup.in/api_panel/User/first_dose_vaccination
+Request {"EmpCode":"SANS-00290"}
+
+////////////07-Dec-2021, 02:56:25 PM/////////////
+Time: 2021-12-07, 14:56:25
+url: http://sep.sanskargroup.in/api_panel/User/first_dose_vaccination
+Request {"EmpCode":"SANS-00290"}
+
+////////////07-Dec-2021, 02:56:50 PM/////////////
+Time: 2021-12-07, 14:56:50
+url: http://sep.sanskargroup.in/api_panel/User/first_dose_vaccination
+Request {"EmpCode":"SANS-00290"}
+
+////////////07-Dec-2021, 02:57:02 PM/////////////
+Time: 2021-12-07, 14:57:02
+url: http://sep.sanskargroup.in/api_panel/User/first_dose_vaccination
+Request []
+
+////////////07-Dec-2021, 02:57:02 PM/////////////
+Time: 2021-12-07, 14:57:02
+url: http://sep.sanskargroup.in/api_panel/User/first_dose_vaccination
+Request []
+
+////////////07-Dec-2021, 02:58:36 PM/////////////
+Time: 2021-12-07, 14:58:36
+url: http://sep.sanskargroup.in/api_panel/User/first_dose_vaccination
+Request {"EmpCode":"SANS-00290"}
+
+////////////07-Dec-2021, 05:52:03 PM/////////////
+Time: 2021-12-07, 17:52:03
+url: http://sep.sanskargroup.in/api_panel/User/first_dose_vaccination
+Request {"EmpCode":"SANS-00042"}
+
+////////////07-Dec-2021, 05:52:17 PM/////////////
+Time: 2021-12-07, 17:52:17
+url: http://sep.sanskargroup.in/api_panel/User/first_dose_vaccination
+Request {"EmpCode":"SANS-00042"}
+
+////////////07-Dec-2021, 06:42:05 PM/////////////
+Time: 2021-12-07, 18:42:05
+url: https://sep.sanskargroup.in/api_panel/User/first_dose_vaccination
+Request {"EmpCode":"SANS-00042"}
+
+////////////07-Dec-2021, 06:42:22 PM/////////////
+Time: 2021-12-07, 18:42:22
+url: https://sep.sanskargroup.in/api_panel/User/first_dose_vaccination
+Request {"EmpCode":"SANS-00042"}
+
+////////////07-Dec-2021, 06:42:51 PM/////////////
+Time: 2021-12-07, 18:42:51
+url: https://sep.sanskargroup.in/api_panel/User/first_dose_vaccination
+Request {"EmpCode":"SANS-00042"}
+
+////////////07-Dec-2021, 06:46:49 PM/////////////
+Time: 2021-12-07, 18:46:49
+url: https://sep.sanskargroup.in/api_panel/User/first_dose_vaccination
+Request {"EmpCode":"SANS-00042"}
+
+////////////07-Dec-2021, 06:46:57 PM/////////////
+Time: 2021-12-07, 18:46:57
+url: https://sep.sanskargroup.in/api_panel/User/first_dose_vaccination
+Request {"EmpCode":"SANS-00042"}
+
+////////////08-Dec-2021, 06:52:37 PM/////////////
+Time: 2021-12-08, 18:52:37
+url: https://sep.sanskargroup.in/api_panel/User/first_dose_vaccination
+Request {"EmpCode":"SANS-00038"}
+
+////////////08-Dec-2021, 06:52:45 PM/////////////
+Time: 2021-12-08, 18:52:45
+url: https://sep.sanskargroup.in/api_panel/User/first_dose_vaccination
+Request {"EmpCode":"SANS-00038"}
+
+////////////08-Dec-2021, 06:54:05 PM/////////////
+Time: 2021-12-08, 18:54:05
+url: https://sep.sanskargroup.in/api_panel/User/first_dose_vaccination
+Request {"EmpCode":"SANS-00290"}
+
+////////////08-Dec-2021, 06:54:14 PM/////////////
+Time: 2021-12-08, 18:54:14
+url: https://sep.sanskargroup.in/api_panel/User/first_dose_vaccination
+Request {"EmpCode":"SANS-00290"}
+
+////////////08-Dec-2021, 07:55:32 PM/////////////
+Time: 2021-12-08, 19:55:32
+url: https://sep.sanskargroup.in/api_panel/User/first_dose_vaccination
+Request {"EmpCode":"SANS-00082"}
+
+////////////08-Dec-2021, 07:57:22 PM/////////////
+Time: 2021-12-08, 19:57:22
+url: https://sep.sanskargroup.in/api_panel/User/first_dose_vaccination
+Request {"EmpCode":"SANS-00082"}
+
+////////////08-Dec-2021, 07:57:32 PM/////////////
+Time: 2021-12-08, 19:57:32
+url: https://sep.sanskargroup.in/api_panel/User/first_dose_vaccination
+Request {"EmpCode":"SANS-00082"}
+
+////////////08-Dec-2021, 07:57:40 PM/////////////
+Time: 2021-12-08, 19:57:40
+url: https://sep.sanskargroup.in/api_panel/User/first_dose_vaccination
+Request {"EmpCode":"SANS-00082"}
+
+////////////08-Dec-2021, 07:57:50 PM/////////////
+Time: 2021-12-08, 19:57:50
+url: https://sep.sanskargroup.in/api_panel/User/first_dose_vaccination
+Request {"EmpCode":"SANS-00082"}
+
+////////////08-Dec-2021, 07:58:00 PM/////////////
+Time: 2021-12-08, 19:58:00
+url: https://sep.sanskargroup.in/api_panel/User/first_dose_vaccination
+Request {"EmpCode":"SANS-00082"}
+
+////////////08-Dec-2021, 07:58:09 PM/////////////
+Time: 2021-12-08, 19:58:09
+url: https://sep.sanskargroup.in/api_panel/User/first_dose_vaccination
+Request {"EmpCode":"SANS-00082"}
+
+////////////09-Dec-2021, 10:09:33 AM/////////////
+Time: 2021-12-09, 10:09:33
+url: https://sep.sanskargroup.in/api_panel/User/first_dose_vaccination
+Request {"EmpCode":"SANS-00038"}
+
+////////////09-Dec-2021, 10:11:08 AM/////////////
+Time: 2021-12-09, 10:11:08
+url: https://sep.sanskargroup.in/api_panel/User/first_dose_vaccination
+Request {"EmpCode":"SANS-00290"}
+
+////////////11-Dec-2021, 12:28:33 PM/////////////
+Time: 2021-12-11, 12:28:33
+url: https://sep.sanskargroup.in/api_panel/User/first_dose_vaccination
+Request {"EmpCode":"SANS-00290"}
+
+////////////11-Dec-2021, 12:28:58 PM/////////////
+Time: 2021-12-11, 12:28:58
+url: https://sep.sanskargroup.in/api_panel/User/first_dose_vaccination
+Request {"EmpCode":"SANS-00290"}
+
+////////////11-Dec-2021, 12:29:01 PM/////////////
+Time: 2021-12-11, 12:29:01
+url: https://sep.sanskargroup.in/api_panel/User/first_dose_vaccination
+Request {"EmpCode":"SANS-00082"}
+
+////////////11-Dec-2021, 12:29:16 PM/////////////
+Time: 2021-12-11, 12:29:16
+url: https://sep.sanskargroup.in/api_panel/User/first_dose_vaccination
+Request {"EmpCode":"SANS-00082"}
+
+////////////11-Dec-2021, 12:30:34 PM/////////////
+Time: 2021-12-11, 12:30:34
+url: https://sep.sanskargroup.in/api_panel/User/first_dose_vaccination
+Request {"EmpCode":"SANS-00290"}
+
+////////////13-Dec-2021, 05:56:01 PM/////////////
+Time: 2021-12-13, 17:56:01
+url: https://sep.sanskargroup.in/api_panel/User/first_dose_vaccination
+Request {"EmpCode":"SANS-00290"}
+
+////////////13-Dec-2021, 05:56:10 PM/////////////
+Time: 2021-12-13, 17:56:10
+url: https://sep.sanskargroup.in/api_panel/User/first_dose_vaccination
+Request {"EmpCode":"SANS-00290"}
+
+////////////14-Dec-2021, 11:21:41 AM/////////////
+Time: 2021-12-14, 11:21:41
+url: https://sep.sanskargroup.in/api_panel/User/first_dose_vaccination
+Request {"EmpCode":"SANS-00290"}
+
+////////////14-Dec-2021, 11:21:50 AM/////////////
+Time: 2021-12-14, 11:21:50
+url: https://sep.sanskargroup.in/api_panel/User/first_dose_vaccination
+Request {"EmpCode":"SANS-00290"}
+
+////////////18-Dec-2021, 12:17:35 PM/////////////
+Time: 2021-12-18, 12:17:35
+url: https://sep.sanskargroup.in/api_panel/User/first_dose_vaccination
+Request {"EmpCode":"SANS-00250"}

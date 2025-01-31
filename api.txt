@@ -1,0 +1,1490 @@
+﻿					Sanskar TV  API’s
+
+********************************************************************
+
+1.Login / Registration
+
+http://ec2-13-127-166-4.ap-south-1.compute.amazonaws.com/index.php/data_model/user/registration/login_authentication
+
+Request (POST ) :
+mobile
+country_code
+login_type
+
+Response of Signup :
+{
+    "status": true,
+    "message": "OTP has been sent for user registration",
+    "data": {
+        "id": "13",
+        "name": "",
+        "username": "",
+        "profile_picture": "http://jhvsdh.jpg",
+        "email": "p87654@qwk.in",
+        "about": "sdvs",
+        "password": "",
+        "mobile": "6484640445",
+        "country_code": "+91",
+        "gender": "0",
+        "login_type": "1",
+        "fb_id": "74sgdsdfs",
+        "gmail_id": "",
+        "device_type": "0",
+        "device_tokken": "",
+        "creation_time": "1517309396409",
+        "otp_verification": "0",
+        "status": "0",
+        "user": "signup",
+        "otp": "8788"
+    },
+    "error": []
+}
+
+Login Response :
+{
+    "status": true,
+    "message": "OTP has been sent for login.",
+    "data": {
+        "id": "13",
+        "name": "",
+        "username": "",
+        "profile_picture": "http://jhvsdh.jpg",
+        "email": "p87654@qwk.in",
+        "about": "sdvs",
+        "password": "",
+        "mobile": "6484640445",
+        "country_code": "+91",
+        "gender": "0",
+        "login_type": "1",
+        "fb_id": "74sgdsdfs",
+        "gmail_id": "",
+        "device_type": "0",
+        "device_tokken": "",
+        "creation_time": "1517309396409",
+        "otp_verification": "0",
+        "status": "0",
+        "user": "login",
+        "otp": "3249"
+    },
+    "error": []
+}
+
+********************************************************************
+2(a). OTP Verification after change mobile number on profile update
+
+http://ec2-13-127-166-4.ap-south-1.compute.amazonaws.com/index.php/data_model/user/registration/otp_verification
+
+Request (POST ) :
+id
+otp_verification = 1
+and all profile keys
+
+Response :
+
+{
+    "status": true,
+    "message": "User OTP verification successfull.",
+    "data": {
+        "id": "81",
+        "name": "",
+        "username": "Prashant33",
+        "profile_picture": "http://ec2-13-127-166-4.ap-south-1.compute.amazonaws.com/uploads/profile_image/15181728949551968061518172892363.png",
+        "email": "ps@gmail.com",
+        "about": "this",
+        "password": "",
+        "country_code": "+91",
+        "mobile": "9874563210",
+        "gender": "1",
+        "login_type": "0",
+        "fb_id": "",
+        "gmail_id": "",
+        "device_type": "0",
+        "device_tokken": "",
+        "creation_time": "1520249417823",
+        "otp_verification": "1",
+        "status": "0"
+    },
+    "error": []
+}
+
+********************************************************************
+
+
+2(b). OTP Verification after login and signup
+
+http://ec2-13-127-166-4.ap-south-1.compute.amazonaws.com/index.php/data_model/user/registration/otp_verification
+
+Request (POST ) :
+id
+otp_verification = 1
+device_type
+device_tokken
+
+Response :
+
+{
+    "status": true,
+    "message": "User OTP verification successfull.",
+    "data": [],
+    "error": []
+}
+
+********************************************************************
+
+3. Update Profile
+
+http://ec2-13-127-166-4.ap-south-1.compute.amazonaws.com/index.php/data_model/user/registration/update_profile
+
+Request (POST ) :
+id
+country_code
+mobile
+email
+username
+profile_picture
+gender
+
+Response :
+
+{
+    "status": true,
+    "message": "OTP has been sent for mobile number verification",
+    "data": {
+        "mobile": "648464087",
+        "login_type": "1",
+        "country_code": "+91",
+        "email": "p874544@qwk.in",
+        "gender": "0",
+        "about": "sdvs",
+        "fb_id": "74sgdsdfs",
+        "id": "12",
+        "profile_picture": "http://ec2-13-127-166-4.ap-south-1.compute.amazonaws.com/uploads/profile_image/151730973762678146jhghj.png",
+        "otp": "8927"
+    },
+    "error": []
+}
+****************************************************************************
+4(a). Get videos on Home page
+
+http://ec2-13-127-166-4.ap-south-1.compute.amazonaws.com/index.php/data_model/videos/Video_control/home_page_videos
+
+Request (POST ) :
+user_id
+
+Response :
+
+{
+    "status": true,
+    "message": "Success.",
+    "channel": [
+        {
+            "id": "1",
+            "name": "Ishwar Channel",
+            "image": "https://s3.ap-south-1.amazonaws.com/bhaktiappproduction/channel_images/channel1.jpg",
+            "creation_time": "0",
+            "status": "0"
+        },
+        {
+            "id": "2",
+            "name": "Astha TV",
+            "image": "https://s3.ap-south-1.amazonaws.com/bhaktiappproduction/channel_images/channel2.jpg",
+            "creation_time": "0",
+            "status": "0"
+        },
+        {
+            "id": "3",
+            "name": "Sankara TV",
+            "image": "https://s3.ap-south-1.amazonaws.com/bhaktiappproduction/channel_images/channel3.jpg",
+            "creation_time": "0",
+            "status": "0"
+        },
+        {
+            "id": "4",
+            "name": "Siti TV",
+            "image": "https://s3.ap-south-1.amazonaws.com/bhaktiappproduction/channel_images/channel4.jpg",
+            "creation_time": "0",
+            "status": "0"
+        },
+        {
+            "id": "5",
+            "name": "Sadhana TV",
+            "image": "https://s3.ap-south-1.amazonaws.com/bhaktiappproduction/channel_images/channel5.jpg",
+            "creation_time": "0",
+            "status": "0"
+        }
+    ],
+    "data": [
+        {
+            "id": "10000",
+            "category": "Trending Video",
+            "videos": [
+                {
+                    "id": "18",
+                    "video_title": "O Aye tere bhavan",
+                    "video_url": "https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/videos/video/2793508videoplayback.mp4",
+                    "author_name": "Gulshan Kumar",
+                    "thumbnail_url": "https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/videos/thumbnails/1976476gulshan.jpg",
+                    "video_desc": "O Aaye Tere Bhawan Devi Bhajan Sonu Nigam, Anuradha Paudwal Full Video Song I Bhakti Sagar Episode",
+                    "category": "4",
+                    "related_guru": "13",
+                    "author_image": "",
+                    "comments": "14",
+                    "views": "16",
+                    "likes": "5",
+                    "tags": "bhakti,gulshan",
+                    "creation_time": "1521801592982",
+                    "status": "0",
+                    "is_like": "0"
+                },
+                {
+                    "id": "15",
+                    "video_title": "Mind thoughts?",
+                    "video_url": "https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/videos/video/6558462videoplayback_%281%29.mp4",
+                    "author_name": "Sri Sri Ravi Shankar",
+                    "thumbnail_url": "http://34.207.7.22/total_bhakti/uploads/thumbnail/t1.jpg",
+                    "video_desc": "How to save our minds from the Negative thoughts?",
+                    "category": "1,7",
+                    "related_guru": "14",
+                    "author_image": "",
+                    "comments": "0",
+                    "views": "10",
+                    "likes": "4",
+                    "tags": "srisri,thoughts",
+                    "creation_time": "1521801889359",
+                    "status": "0",
+                    "is_like": "0"
+                },
+                {
+                    "id": "14",
+                    "video_title": "Yoga video",
+                    "video_url": "http://ec2-13-127-166-4.ap-south-1.compute.amazonaws.com/uploads/videos/mp3-player-addplaylist.jpg",
+                    "author_name": "Baba Ramdev",
+                    "thumbnail_url": "http://34.207.7.22/total_bhakti/uploads/thumbnail/t2.jpg",
+                    "video_desc": "Exclusive: Quick Yoga Tips by Yog Guru Baba Ramdev",
+                    "category": "3",
+                    "related_guru": "",
+                    "author_image": "",
+                    "comments": "0",
+                    "views": "9",
+                    "likes": "2",
+                    "tags": "ramdev,devotional",
+                    "creation_time": "1517826679559",
+                    "status": "0",
+                    "is_like": "0"
+                }
+            ]
+        },
+        {
+            "id": "10001",
+            "category": "Recently View",
+            "videos": []
+        },
+        {
+            "id": "1",
+            "category": "Trending",
+            "videos": [
+                {
+                    "id": "15",
+                    "video_title": "Mind thoughts?",
+                    "video_url": "https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/videos/video/6558462videoplayback_%281%29.mp4",
+                    "author_name": "Sri Sri Ravi Shankar",
+                    "thumbnail_url": "http://34.207.7.22/total_bhakti/uploads/thumbnail/t1.jpg",
+                    "video_desc": "How to save our minds from the Negative thoughts?",
+                    "category": "1,7",
+                    "related_guru": "14",
+                    "author_image": "",
+                    "comments": "0",
+                    "views": "10",
+                    "likes": "4",
+                    "tags": "srisri,thoughts",
+                    "creation_time": "1521801889359",
+                    "status": "0",
+                    "is_like": "0"
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "category": "Artist",
+            "videos": [
+                {
+                    "id": "2",
+                    "video_title": "How to save our minds from the Negative thoughts?",
+                    "video_url": "http://ec2-13-127-166-4.ap-south-1.compute.amazonaws.com/uploads/videos/video-list.jpg",
+                    "author_name": "Sri Sri Ravi Shankar",
+                    "thumbnail_url": "http://34.207.7.22/total_bhakti/uploads/thumbnail/t1.jpg",
+                    "video_desc": "How to save our minds from the Negative thoughts?",
+                    "category": "2",
+                    "related_guru": "6,7",
+                    "author_image": "",
+                    "comments": "2",
+                    "views": "11",
+                    "likes": "3",
+                    "tags": "bhajan",
+                    "creation_time": "1517825844964",
+                    "status": "0",
+                    "is_like": "0"
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "category": "Navratri",
+            "videos": [
+                {
+                    "id": "14",
+                    "video_title": "Yoga video",
+                    "video_url": "http://ec2-13-127-166-4.ap-south-1.compute.amazonaws.com/uploads/videos/mp3-player-addplaylist.jpg",
+                    "author_name": "Baba Ramdev",
+                    "thumbnail_url": "http://34.207.7.22/total_bhakti/uploads/thumbnail/t2.jpg",
+                    "video_desc": "Exclusive: Quick Yoga Tips by Yog Guru Baba Ramdev",
+                    "category": "3",
+                    "related_guru": "",
+                    "author_image": "",
+                    "comments": "0",
+                    "views": "9",
+                    "likes": "2",
+                    "tags": "ramdev,devotional",
+                    "creation_time": "1517826679559",
+                    "status": "0",
+                    "is_like": "0"
+                },
+                {
+                    "id": "13",
+                    "video_title": "Sample Video",
+                    "video_url": "http://ec2-13-127-166-4.ap-south-1.compute.amazonaws.com/uploads/videos/mp3-player-addplaylist.jpg",
+                    "author_name": "Baba Ramdev",
+                    "thumbnail_url": "http://34.207.7.22/total_bhakti/uploads/thumbnail/t2.jpg",
+                    "video_desc": "Exclusive: Quick Yoga Tips by Yog Guru Baba Ramdev",
+                    "category": "3",
+                    "related_guru": "6,9",
+                    "author_image": "",
+                    "comments": "0",
+                    "views": "10",
+                    "likes": "5",
+                    "tags": "bhakti,ramdev",
+                    "creation_time": "1517826679559",
+                    "status": "0",
+                    "is_like": "0"
+                },
+                {
+                    "id": "12",
+                    "video_title": "Dummy video",
+                    "video_url": "https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/videos/video/7690463videoplayback%281%29",
+                    "author_name": "Baba Ramdev",
+                    "thumbnail_url": "https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/videos/thumbnails/7578167bhakti.jpeg",
+                    "video_desc": "Beautiful bhakti song by Ramdev",
+                    "category": "3,4",
+                    "related_guru": "9,10",
+                    "author_image": "",
+                    "comments": "0",
+                    "views": "8",
+                    "likes": "3",
+                    "tags": "ramdev",
+                    "creation_time": "1521801741649",
+                    "status": "0",
+                    "is_like": "0"
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "category": "Bhakti Darshan",
+            "videos": [
+                {
+                    "id": "18",
+                    "video_title": "O Aye tere bhavan",
+                    "video_url": "https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/videos/video/2793508videoplayback.mp4",
+                    "author_name": "Gulshan Kumar",
+                    "thumbnail_url": "https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/videos/thumbnails/1976476gulshan.jpg",
+                    "video_desc": "O Aaye Tere Bhawan Devi Bhajan Sonu Nigam, Anuradha Paudwal Full Video Song I Bhakti Sagar Episode",
+                    "category": "4",
+                    "related_guru": "13",
+                    "author_image": "",
+                    "comments": "14",
+                    "views": "16",
+                    "likes": "5",
+                    "tags": "bhakti,gulshan",
+                    "creation_time": "1521801592982",
+                    "status": "0",
+                    "is_like": "0"
+                },
+                {
+                    "id": "12",
+                    "video_title": "Dummy video",
+                    "video_url": "https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/videos/video/7690463videoplayback%281%29",
+                    "author_name": "Baba Ramdev",
+                    "thumbnail_url": "https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/videos/thumbnails/7578167bhakti.jpeg",
+                    "video_desc": "Beautiful bhakti song by Ramdev",
+                    "category": "3,4",
+                    "related_guru": "9,10",
+                    "author_image": "",
+                    "comments": "0",
+                    "views": "8",
+                    "likes": "3",
+                    "tags": "ramdev",
+                    "creation_time": "1521801741649",
+                    "status": "0",
+                    "is_like": "0"
+                },
+                {
+                    "id": "11",
+                    "video_title": "Thought video",
+                    "video_url": "https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/videos/video/7690463videoplayback%281%29",
+                    "author_name": "Sri Sri ravishankar",
+                    "thumbnail_url": "https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/videos/thumbnails/7578167bhakti.jpeg",
+                    "video_desc": "Thoughts",
+                    "category": "3,4",
+                    "related_guru": "14",
+                    "author_image": "",
+                    "comments": "0",
+                    "views": "9",
+                    "likes": "3",
+                    "tags": "srisri",
+                    "creation_time": "1521801792505",
+                    "status": "0",
+                    "is_like": "0"
+                }
+            ]
+        },
+        {
+            "id": "7",
+            "category": "Divine",
+            "videos": [
+                {
+                    "id": "15",
+                    "video_title": "Mind thoughts?",
+                    "video_url": "https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/videos/video/6558462videoplayback_%281%29.mp4",
+                    "author_name": "Sri Sri Ravi Shankar",
+                    "thumbnail_url": "http://34.207.7.22/total_bhakti/uploads/thumbnail/t1.jpg",
+                    "video_desc": "How to save our minds from the Negative thoughts?",
+                    "category": "1,7",
+                    "related_guru": "14",
+                    "author_image": "",
+                    "comments": "0",
+                    "views": "10",
+                    "likes": "4",
+                    "tags": "srisri,thoughts",
+                    "creation_time": "1521801889359",
+                    "status": "0",
+                    "is_like": "0"
+                }
+            ]
+        }
+    ],
+    "error": []
+}
+
+*******************************************************************************
+4(b). Get videos on Home page All videos By category
+
+http://ec2-13-127-166-4.ap-south-1.compute.amazonaws.com/index.php/data_model/videos/Video_control/home_page_view_all_videos
+
+Request (POST ) :
+user_id
+total_received_count
+video_category (id)
+
+Response :
+
+{
+    "status": true,
+    "message": "Success.",
+    "data": {
+        "videos": [
+            {
+                "id": "13",
+                "video_title": "Sample Video",
+                "video_url": "http://ec2-13-127-166-4.ap-south-1.compute.amazonaws.com/uploads/videos/mp3-player-addplaylist.jpg",
+                "author_name": "Baba Ramdev",
+                "thumbnail_url": "http://34.207.7.22/total_bhakti/uploads/thumbnail/t2.jpg",
+                "video_desc": "Exclusive: Quick Yoga Tips by Yog Guru Baba Ramdev",
+                "category": "3",
+                "related_guru": "6,9",
+                "author_image": "",
+                "comments": "0",
+                "views": "6",
+                "likes": "4",
+                "tags": "bhakti,ramdev",
+                "creation_time": "1517826679559",
+                "status": "0",
+                "is_like": "0"
+            },
+            {
+                "id": "12",
+                "video_title": "Dummy video",
+                "video_url": "https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/videos/video/7690463videoplayback%281%29",
+                "author_name": "Sonu Nigam",
+                "thumbnail_url": "https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/videos/thumbnails/7578167bhakti.jpeg",
+                "video_desc": "Beautiful bhakti song by Sonu Nigam",
+                "category": "3,4",
+                "related_guru": "9,10",
+                "author_image": "",
+                "comments": "0",
+                "views": "4",
+                "likes": "2",
+                "tags": "sonunigam",
+                "creation_time": "1519285651303",
+                "status": "0",
+                "is_like": "0"
+            },
+            {
+                "id": "11",
+                "video_title": "Bhakti video by Sonu Nigam",
+                "video_url": "https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/videos/video/7690463videoplayback%281%29",
+                "author_name": "Sonu Nigam",
+                "thumbnail_url": "https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/videos/thumbnails/7578167bhakti.jpeg",
+                "video_desc": "Beautiful bhakti song by Sonu Nigam",
+                "category": "3,4",
+                "related_guru": "9",
+                "author_image": "",
+                "comments": "0",
+                "views": "6",
+                "likes": "2",
+                "tags": "",
+                "creation_time": "1519285651303",
+                "status": "0",
+                "is_like": "0"
+            },
+            {
+                "id": "3",
+                "video_title": "Quick Yoga Tips by Yog Guru Baba Ramdev",
+                "video_url": "http://ec2-13-127-166-4.ap-south-1.compute.amazonaws.com/uploads/videos/mp3-player-addplaylist.jpg",
+                "author_name": "Baba Ramdev",
+                "thumbnail_url": "http://34.207.7.22/total_bhakti/uploads/thumbnail/t2.jpg",
+                "video_desc": "Exclusive: Quick Yoga Tips by Yog Guru Baba Ramdev",
+                "category": "3",
+                "related_guru": "9,11",
+                "author_image": "",
+                "comments": "0",
+                "views": "6",
+                "likes": "4",
+                "tags": "bhajan",
+                "creation_time": "1517826679559",
+                "status": "0",
+                "is_like": "1"
+            }
+        ]
+    },
+    "error": []
+}
+
+*******************************************************************************
+
+5. View,Search,pagination videos
+
+http://ec2-13-127-166-4.ap-south-1.compute.amazonaws.com/index.php/data_model/videos/video_control/search_videos
+
+Request (POST ) :
+user_id
+search_content
+video_category
+last_video_id
+
+Respose: case:1(when all field blank )
+
+{
+    "status": true,
+    "message": "Success.",
+    "data": {
+        "category": [
+            {
+                "id": "1",
+                "category_name": "Trending",
+                "creation_time": "1515392279618",
+                "status": "0"
+            },
+            {
+                "id": "2",
+                "category_name": "Artist",
+                "creation_time": "1515392279618",
+                "status": "0"
+            },
+            {
+                "id": "3",
+                "category_name": "Navratri",
+                "creation_time": "1515392279618",
+                "status": "0"
+            },
+            {
+                "id": "4",
+                "category_name": "Bhakti Darshan",
+                "creation_time": "1515392279618",
+                "status": "0"
+            },
+            {
+                "id": "5",
+                "category_name": "Latest Videos",
+                "creation_time": "1520591258956",
+                "status": "0"
+            }
+        ],
+        "videos": [
+            {
+                "id": "3",
+                "video_title": "Testing",
+                "video_url": "https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/videos/video/2520419videoplayback%282%29",
+                "author_name": "test",
+                "thumbnail_url": "https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/videos/thumbnails/2162296kanhane.jpg",
+                "video_desc": "sdvsd",
+                "category": "1,3",
+                "related_guru": "4",
+                "comments": "0",
+                "views": "0",
+                "likes": "0",
+                "tags": "bhajan,hgfgh,jk",
+                "creation_time": "1520851470989",
+                "status": "0",
+                "is_like": "0"
+            },
+            {
+                "id": "2",
+                "video_title": "Video 2",
+                "video_url": "http://localhost/total_bhakti/uploads/videos/87.jpg",
+                "author_name": "Testing",
+                "thumbnail_url": "http://localhost/total_bhakti/uploads/videos/87.jpg",
+                "video_desc": "asfasdf",
+                "category": "2,3",
+                "related_guru": "3",
+                "comments": "1",
+                "views": "2",
+                "likes": "1",
+                "tags": "",
+                "creation_time": "0",
+                "status": "0",
+                "is_like": "0"
+            }
+        ]
+    },
+    "error": []
+}
+Respose: case:2(at least one field not blank)
+{
+    "status": true,
+    "message": "Success.",
+    "data": {
+        "videos": [
+            {
+                "id": "2",
+                "video_title": "Video 2",
+                "video_url": "http://localhost/total_bhakti/uploads/videos/87.jpg",
+                "author_name": "Testing",
+                "thumbnail_url": "http://localhost/total_bhakti/uploads/videos/87.jpg",
+                "video_desc": "asfasdf",
+                "category": "2,3",
+                "related_guru": "3",
+                "comments": "1",
+                "views": "2",
+                "likes": "1",
+                "tags": "",
+                "creation_time": "0",
+                "status": "0",
+                "is_like": "0"
+            },
+            {
+                "id": "1",
+                "video_title": "asd",
+                "video_url": "http://localhost/total_bhakti/uploads/videos/87.jpg",
+                "author_name": "asd",
+                "thumbnail_url": "http://localhost/total_bhakti/uploads/thumbnail/87.jpg",
+                "video_desc": "asda",
+                "category": "2",
+                "related_guru": "3,4",
+                "comments": "0",
+                "views": "0",
+                "likes": "0",
+                "tags": "",
+                "creation_time": "1517393768249",
+                "status": "0",
+                "is_like": "0"
+            }
+        ]
+    },
+    "error": []
+}
+
+
+********************************************************************************
+6. Get Guru’s List
+
+http://ec2-13-127-166-4.ap-south-1.compute.amazonaws.com/index.php/data_model/guru/guru/get_guru_list
+
+Request (POST ) :
+user_id
+last_guru_id
+
+{
+    "status": true,
+    "message": "Success.",
+    "data": [
+        {
+            "id": "6",
+            "name": "Sri Sri Ravishankar",
+            "profile_image": "http://ec2-13-127-166-4.ap-south-1.compute.amazonaws.com/uploads/guru/profile_image/index.jpeg",
+            "description": "Gurudev Sri Sri Ravi Shankar is a globally revered spiritual and humanitarian leader.",
+            "followers_count": "0",
+            "likes_count": "0",
+            "creation_time": "2147483647",
+            "is_follow": "0",
+            "is_like": "0"
+        }
+    ],
+    "error": []
+}
+
+********************************************************************************
+
+7. Follow Guru
+
+http://ec2-13-127-166-4.ap-south-1.compute.amazonaws.com/index.php/data_model/guru/guru/follow_guru
+
+Request (POST ) :
+user_id
+guru_id
+
+Response:
+{
+    "status": true,
+    "message": "Follow Successfully.",
+    "data": {
+        "status": 0
+    },
+    "error": []
+}
+
+********************************************************************************
+
+8. Unfollow Guru
+
+http://ec2-13-127-166-4.ap-south-1.compute.amazonaws.com/index.php/data_model/guru/guru/unfollow_guru
+
+Request (POST ) :
+user_id
+guru_id
+
+Response:
+{
+    "status": true,
+    "message": "unfollow Successfully.",
+    "data": {
+        "status": 0
+    },
+    "error": []
+}
+
+********************************************************************************
+9. Like Guru
+
+http://ec2-13-127-166-4.ap-south-1.compute.amazonaws.com/index.php/data_model/guru/guru/like_guru
+
+Request (POST ) :
+user_id
+guru_id
+
+Response:
+{
+    "status": true,
+    "message": "liked Successfully.",
+    "data": {
+        "status": 0
+    },
+    "error": []
+}
+
+********************************************************************************
+
+10. Unlike Guru
+
+http://ec2-13-127-166-4.ap-south-1.compute.amazonaws.com/index.php/data_model/guru/guru/unlike_guru
+
+Request (POST ) :
+user_id
+guru_id
+
+Response:
+{
+    "status": true,
+    "message": "unlike Successfully.",
+    "data": {
+        "status": 0
+    },
+    "error": []
+}
+
+********************************************************************************
+
+11. Video views
+
+http://ec2-13-127-166-4.ap-south-1.compute.amazonaws.com/index.php/data_model/videos/video_control/view_video
+
+Request (POST ) :
+user_id
+video_id
+
+{
+    "status": true,
+    "message": "User viewed.",
+    "data": {
+        "status": 0
+    },
+    "error": []
+}
+
+********************************************************************************
+
+12. Like video
+
+http://ec2-13-127-166-4.ap-south-1.compute.amazonaws.com/index.php/data_model/videos/video_control/like_video
+
+Request (POST ) :
+user_id
+video_id
+
+{
+    "status": true,
+    "message": "User liked.",
+    "data": {
+        "status": 0
+    },
+    "error": []
+}
+
+********************************************************************************
+
+13. Unike video
+
+http://ec2-13-127-166-4.ap-south-1.compute.amazonaws.com/index.php/data_model/videos/video_control/unlike_video
+
+Request (POST ) :
+user_id
+video_id
+
+{
+    "status": true,
+    "message": "Unlike Successfully.",
+    "data": {
+        "status": 0
+    },
+    "error": []
+}
+
+********************************************************************************
+
+14. Recent Views
+
+http://ec2-13-127-166-4.ap-south-1.compute.amazonaws.com/index.php/data_model/videos/video_control/recent_views
+
+Request (POST ) :
+user_id
+type (1 for audio, 2 for video)
+media_id
+
+{
+    "status": true,
+    "message": "Success.",
+    "data": {
+        "status": 0
+    },
+    "error": []
+}
+
+********************************************************************************
+
+15. Guru Related Videos
+
+http://ec2-13-127-166-4.ap-south-1.compute.amazonaws.com/index.php/data_model/videos/video_control/get_related_guru_videos
+
+Request (POST ) :
+user_id
+type (1 for audio, 2 for video)
+media_id
+
+Response :
+
+{
+    "status": true,
+    "message": "Success.",
+    "data": {
+        "status": 0
+    },
+    "error": []
+}
+
+********************************************************************************
+
+16. Related Videos
+
+http://ec2-13-127-166-4.ap-south-1.compute.amazonaws.com/index.php/data_model/videos/video_control/get_related_videos
+
+Request (POST ) :
+user_id
+video_id
+
+Response :
+{
+    "status": true,
+    "message": "Success.",
+    "data": [
+        {
+            "id": "3",
+            "video_title": "Quick Yoga Tips by Yog Guru Baba Ramdev",
+            "video_url": "http://ec2-13-127-166-4.ap-south-1.compute.amazonaws.com/uploads/videos/mp3-player-addplaylist.jpg",
+            "author_name": "Baba Ramdev",
+            "thumbnail_url": "http://34.207.7.22/total_bhakti/uploads/thumbnail/t2.jpg",
+            "video_desc": "Exclusive: Quick Yoga Tips by Yog Guru Baba Ramdev",
+            "category": "3",
+            "related_guru": "9,11",
+            "author_image": "",
+            "comments": "0",
+            "views": "4",
+            "likes": "2",
+            "tags": "bhajan",
+            "creation_time": "1517826679559",
+            "status": "0",
+            "is_like": "0"
+        }
+    ],
+    "error": []
+}
+
+********************************************************************************
+
+17. Bhajan list
+
+http://ec2-13-127-166-4.ap-south-1.compute.amazonaws.com/index.php/data_model/bhajan/bhajan/get_bhajan_list
+
+Request (POST ) :
+user_id
+
+Response :
+{
+    "status": true,
+    "message": "Success.",
+    "data": [
+        {
+            "category_name": "Trending",
+            "bhajan": [
+                {
+                    "id": "8",
+                    "title": " Maha Mrityunjaya Mantra by Anuradha Paudwal",
+                    "description": "The Mahamrityumjaya Mantra or Mahamrityunjaya Mantra (Sanskrit: महामृत्युंजय मंत्र or महामृत्युञ्जय मन्त्र, mahāmṛtyuṃjaya mantra or mahāmṛtyuñjaya mantra, lit. \"Great Death-conquering Mantra\"), also known as the Tryambakam Mantra, is a verse of the Rigveda.",
+                    "image": "https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/bhajan/thumbnails/5774900mahamrityujamantra.jpg",
+                    "media_file": "https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/bhajan/audio/3246259Maha-Mrityunjaya-Mantra-Audio.mp3",
+                    "artist_name": "Anuradha Paudwal",
+                    "artist_image": "https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/bhajan/artist_images/1921748anuradha.jpg",
+                    "category": "0",
+                    "related_guru": "7,9",
+                    "likes": "0",
+                    "creation_time": "1522753463423",
+                    "status": "0",
+                    "direct_play": "1",
+                    "is_like": "0",
+                },
+                {
+                    "id": "6",
+                    "title": " Aarti Kunj Bihari Ki (Anuradha Paudwal)",
+                    "description": " Aarti Kunj Bihari Ki (Anuradha Paudwal)",
+                    "image": "https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/bhajan/thumbnails/85946Aarti-Vol-3-1989-500x500.jpg",
+                    "media_file": "https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/bhajan/audio/3926248Aarti-Kunj-Bihari-Ki-%28Anuradha-Paudwal%29.mp3",
+                    "artist_name": "Anuradha Paudwal",
+                    "artist_image": "https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/bhajan/artist_images/849195anuradha.jpg",
+                    "category": "1",
+                    "related_guru": "13,14",
+                    "likes": "0",
+                    "creation_time": "1522753487572",
+                    "status": "0",
+                    "direct_play": "1",
+                    "is_like": "0",
+                },
+                {
+                    "id": "4",
+                    "title": "Dena Ho To Dijie Janam Janam Ka Sath",
+                    "description": "Dena Ho To Dijie Janam Janam Ka Sath (Devkinandan Thakur Ji Maharaj Bhajan)",
+                    "image": "https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/bhajan/thumbnails/7189124devkinandan.png",
+                    "media_file": "https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/bhajan/audio/7816132Dena-Ho-To-Dijie-Janam-Janam-Ka-Sath-%28Devkinandan-Thakur-Ji-Maharaj-Bhajan%29.mp3",
+                    "artist_name": "Devkinandan Thakur",
+                    "artist_image": "https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/bhajan/artist_images/6670586devkithakur.jpg",
+                    "category": "2",
+                    "related_guru": "13,14",
+                    "likes": "0",
+                    "creation_time": "1522753496060",
+                    "status": "0",
+                    "direct_play": "1",
+                    "is_like": "0"
+                },
+                {
+                    "id": "3",
+                    "title": "Kanha Ne Mori Matki Phori",
+                    "description": "Kanha Ne Mori Matki Phori (Devkinandan Thakur Ji Maharaj Bhajan) ",
+                    "image": "https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/bhajan/thumbnails/3214886kanhane.jpg",
+                    "media_file": "https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/bhajan/audio/1071114Kanha-Ne-Mori-Matki-Phori-%28Devkinandan-Thakur-Ji-Maharaj-Bhajan%29.mp3",
+                    "artist_name": "Devkinandan Thakur",
+                    "artist_image": "https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/bhajan/artist_images/5213336devkithakur.jpg",
+                    "category": "2",
+                    "related_guru": "7,9,10",
+                    "likes": "0",
+                    "creation_time": "1524610078218",
+                    "status": "0",
+                    "direct_play": "1",
+                    "is_like": "0",
+                }
+            ]
+        },
+        {
+            "category_name": "Artist",
+            "bhajan": [
+                {
+                    "id": "6",
+                    "title": " Aarti Kunj Bihari Ki (Anuradha Paudwal)",
+                    "description": " Aarti Kunj Bihari Ki (Anuradha Paudwal)",
+                    "image": "https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/bhajan/thumbnails/85946Aarti-Vol-3-1989-500x500.jpg",
+                    "media_file": "https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/bhajan/audio/3926248Aarti-Kunj-Bihari-Ki-%28Anuradha-Paudwal%29.mp3",
+                    "artist_name": "Anuradha Paudwal",
+                    "artist_image": "https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/bhajan/artist_images/849195anuradha.jpg",
+                    "category": "1",
+                    "related_guru": "13,14",
+                    "likes": "0",
+                    "creation_time": "1522753487572",
+                    "status": "0",
+                    "direct_play": "0",
+                    "is_like": "0",
+                },
+                {
+                    "id": "3",
+                    "title": "Kanha Ne Mori Matki Phori",
+                    "description": "Kanha Ne Mori Matki Phori (Devkinandan Thakur Ji Maharaj Bhajan) ",
+                    "image": "https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/bhajan/thumbnails/3214886kanhane.jpg",
+                    "media_file": "https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/bhajan/audio/1071114Kanha-Ne-Mori-Matki-Phori-%28Devkinandan-Thakur-Ji-Maharaj-Bhajan%29.mp3",
+                    "artist_name": "Devkinandan Thakur",
+                    "artist_image": "https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/bhajan/artist_images/5213336devkithakur.jpg",
+                    "category": "2",
+                    "related_guru": "7,9,10",
+                    "likes": "0",
+                    "creation_time": "1524610078218",
+                    "status": "0",
+                    "direct_play": "0",
+                    "is_like": "0",
+                }
+            ]
+        },
+        {
+            "category_name": "Recent View",
+            "bhajan": []
+        }
+    ],
+    "error": []
+}
+
+***********************************************************************************
+18. View News
+
+http://ec2-13-127-166-4.ap-south-1.compute.amazonaws.com/index.php/data_model/news/news/view_news
+
+Request (POST ) :
+user_id
+news_id
+
+Response :
+
+{
+    "status": true,
+    "message": "User viewed.",
+    "data": {
+        "status": 0
+    },
+    "error": []
+}
+*****************************************************************************************
+19. Get Related Guru Audios
+
+http://ec2-13-127-166-4.ap-south-1.compute.amazonaws.com/index.php/data_model/bhajan/bhajan/get_related_guru_audios
+
+Request (POST ) :
+user_id
+guru_id
+
+Response :
+{
+    "status": true,
+    "message": "Success.",
+    "data": [
+        {
+                    "id": "6",
+                    "title": "Bhakti Song 3",
+                    "description": "Tera Sahara Ambe Maa Devi Bhajan Sonu Nigam",
+                    "image": "http://ec2-13-127-166-4.ap-south-1.compute.amazonaws.com/uploads/bhajan/thumbnails/ambe_maa.jpeg",
+                    "media_file": "http://ec2-13-127-166-4.ap-south-1.compute.amazonaws.com/uploads/bhajan/media_files/ambe_maa.mp3",
+                    "artist_name": "Sonu Nigam",
+                    "artist_image": "https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/bhajan/artist_images/130292sonu_nigam.jpg",
+                    "category": "1",
+                    "creation_time": "0",
+                    "status": "0",
+                    "direct_play": "1"
+                }
+    ],
+    "error": []
+}
+*****************************************************************************************
+20. ADD Comment on Video
+
+http://ec2-13-127-166-4.ap-south-1.compute.amazonaws.com/index.php/data_model/videos/Video_control/add_comment
+
+Request (POST ) :
+user_id
+video_id
+comment
+
+Response :
+{
+    "status": true,
+    "message": "Comment added.",
+    "data": [],
+    "error": []
+}
+
+*****************************************************************************************
+21. Get Video Comment
+
+http://ec2-13-127-166-4.ap-south-1.compute.amazonaws.com/index.php/data_model/videos/Video_control/get_video_comment
+
+Request (POST ) :
+video_id
+last_comment_id
+
+Response :
+{
+    "status": true,
+    "message": "Comment details.",
+    "data": [
+        {
+            "id": "3",
+            "video_id": "2",
+            "user_id": "94",
+            "comment": "helloasda",
+            "time": "1522829027120",
+            "name": "",
+            "profile_picture": ""
+        },
+        {
+            "id": "1",
+            "video_id": "2",
+            "user_id": "94",
+            "comment": "hello",
+            "time": "1522827972266",
+            "name": "",
+            "profile_picture": ""
+        }
+    ],
+    "error": []
+}
+
+*****************************************************************************************
+22. Sankirtan Home
+
+http://ec2-13-127-166-4.ap-south-1.compute.amazonaws.com/index.php/data_model/videos/Video_control/sankirtan_home
+
+Request (POST ) :
+user_id
+
+Response :
+{
+    "status": true,
+    "message": "Success.",
+    "data": [
+        {
+            "category": "Trending Video",
+            "videos": [
+                {
+                    "id": "15",
+                    "video_title": "Mind thoughts?",
+                    "video_url": "https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/videos/video/6558462videoplayback_%281%29.mp4",
+                    "author_name": "Sri Sri Ravi Shankar",
+                    "thumbnail_url": "http://34.207.7.22/total_bhakti/uploads/thumbnail/t1.jpg",
+                    "video_desc": "How to save our minds from the Negative thoughts?",
+                    "category": "1,7",
+                    "is_sankirtan": "1",
+                    "related_guru": "14",
+                    "author_image": "",
+                    "comments": "26",
+                    "views": "12",
+                    "likes": "5",
+                    "tags": "srisri,thoughts",
+                    "creation_time": "1521801889359",
+                    "status": "0",
+                    "is_like": "0"
+                },
+                {
+                    "id": "3",
+                    "video_title": "Quick Yoga Tips by Yog Guru Baba Ramdev",
+                    "video_url": "http://ec2-13-127-166-4.ap-south-1.compute.amazonaws.com/uploads/videos/mp3-player-addplaylist.jpg",
+                    "author_name": "Baba Ramdev",
+                    "thumbnail_url": "http://34.207.7.22/total_bhakti/uploads/thumbnail/t2.jpg",
+                    "video_desc": "Exclusive: Quick Yoga Tips by Yog Guru Baba Ramdev",
+                    "category": "3",
+                    "is_sankirtan": "1",
+                    "related_guru": "9,11",
+                    "author_image": "",
+                    "comments": "0",
+                    "views": "8",
+                    "likes": "4",
+                    "tags": "bhajan",
+                    "creation_time": "1517826679559",
+                    "status": "0",
+                    "is_like": "1"
+                }
+            ]
+        },
+        {
+            "category": "Recently View",
+            "videos": []
+        }
+    ],
+    "error": []
+}
+
+*****************************************************************************************
+23. view_all_sankirtan_by_category
+
+http://ec2-13-127-166-4.ap-south-1.compute.amazonaws.com/index.php/data_model/videos/Video_control/view_all_sankirtan_by_category
+
+Request (POST ) :
+total_received_count,
+video_category="Trending Video" or "Recently View";
+user_id
+
+
+Response :
+{
+    "status": true,
+    "message": "Success.",
+    "data": {
+        "videos": [
+            {
+                "id": "3",
+                "video_title": "Quick Yoga Tips by Yog Guru Baba Ramdev",
+                "video_url": "http://ec2-13-127-166-4.ap-south-1.compute.amazonaws.com/uploads/videos/mp3-player-addplaylist.jpg",
+                "author_name": "Baba Ramdev",
+                "thumbnail_url": "http://34.207.7.22/total_bhakti/uploads/thumbnail/t2.jpg",
+                "video_desc": "Exclusive: Quick Yoga Tips by Yog Guru Baba Ramdev",
+                "category": "3",
+                "is_sankirtan": "1",
+                "related_guru": "9,11",
+                "author_image": "",
+                "comments": "0",
+                "views": "8",
+                "likes": "4",
+                "tags": "bhajan",
+                "creation_time": "1517826679559",
+                "status": "0",
+                "is_like": "1"
+            },
+            {
+                "id": "12",
+                "video_title": "Dummy video",
+                "video_url": "https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/videos/video/7690463videoplayback%281%29",
+                "author_name": "Baba Ramdev",
+                "thumbnail_url": "https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/videos/thumbnails/7578167bhakti.jpeg",
+                "video_desc": "Beautiful bhakti song by Ramdev",
+                "category": "3,4",
+                "is_sankirtan": "1",
+                "related_guru": "9,10",
+                "author_image": "",
+                "comments": "0",
+                "views": "8",
+                "likes": "3",
+                "tags": "ramdev",
+                "creation_time": "1521801741649",
+                "status": "0",
+                "is_like": "0"
+            }
+        ]
+    },
+    "error": []
+}
+*****************************************************************************************
+24. Bhajan Like
+
+http://ec2-13-127-166-4.ap-south-1.compute.amazonaws.com/index.php/data_model/bhajan/bhajan/like_bhajan
+
+Request (POST ) :
+bhajan_id
+user_id
+
+
+Response :
+{
+    "status": true,
+    "message": "User liked.",
+    "data": [],
+    "error": []
+}
+*****************************************************************************************
+25. Bhajan unlike
+
+http://ec2-13-127-166-4.ap-south-1.compute.amazonaws.com/index.php/data_model/bhajan/bhajan/unlike_bhajan
+
+Request (POST ) :
+bhajan_id
+user_id
+
+
+Response :
+{
+    "status": true,
+    "message": "Unlike Successfully..",
+    "data": [],
+    "error": []
+}
+*****************************************************************************************
+26. Get Bhajan by Artist Name
+
+http://ec2-13-127-166-4.ap-south-1.compute.amazonaws.com/index.php/data_model/bhajan/bhajan/get_bhajan_of_artist
+
+Request (POST ) :
+user_id
+artist_name
+
+
+Response :
+{
+    "status": true,
+    "message": "Success.",
+    "data": [
+        {
+            "id": "3",
+            "title": "Kanha Ne Mori Matki Phori",
+            "description": "Kanha Ne Mori Matki Phori (Devkinandan Thakur Ji Maharaj Bhajan) ",
+            "image": "https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/bhajan/thumbnails/3214886kanhane.jpg",
+            "media_file": "https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/bhajan/audio/1071114Kanha-Ne-Mori-Matki-Phori-%28Devkinandan-Thakur-Ji-Maharaj-Bhajan%29.mp3",
+            "artist_name": "Devkinandan Thakur",
+            "artist_image": "https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/bhajan/artist_images/5213336devkithakur.jpg",
+            "category": "2",
+            "related_guru": "7,9,10",
+            "likes": "1",
+            "creation_time": "1524610078218",
+            "status": "0"
+        },
+        {
+            "id": "4",
+            "title": "Dena Ho To Dijie Janam Janam Ka Sath",
+            "description": "Dena Ho To Dijie Janam Janam Ka Sath (Devkinandan Thakur Ji Maharaj Bhajan)",
+            "image": "https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/bhajan/thumbnails/7189124devkinandan.png",
+            "media_file": "https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/bhajan/audio/7816132Dena-Ho-To-Dijie-Janam-Janam-Ka-Sath-%28Devkinandan-Thakur-Ji-Maharaj-Bhajan%29.mp3",
+            "artist_name": "Devkinandan Thakur",
+            "artist_image": "https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/bhajan/artist_images/6670586devkithakur.jpg",
+            "category": "2",
+            "related_guru": "13,14",
+            "likes": "0",
+            "creation_time": "1522753496060",
+            "status": "0"
+        }
+    ],
+    "error": []
+}
+***********************************************
+
+27. Search Bhajan
+
+http://ec2-13-127-166-4.ap-south-1.compute.amazonaws.com/index.php/data_model/bhajan/bhajan/search_bhajan
+
+Request (POST ) :
+user_id
+search_content
+
+
+Response :
+{
+    "status": true,
+    "message": "Success.",
+    "data": [
+        {
+            "id": "8",
+            "title": " Maha Mrityunjaya Mantra by Anuradha Paudwal",
+            "description": "The Mahamrityumjaya Mantra or Mahamrityunjaya Mantra (Sanskrit: महामृत्युंजय मंत्र or महामृत्युञ्जय मन्त्र, mahāmṛtyuṃjaya mantra or mahāmṛtyuñjaya mantra, lit. \"Great Death-conquering Mantra\"), also known as the Tryambakam Mantra, is a verse of the Rigveda.",
+            "image": "https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/bhajan/thumbnails/5774900mahamrityujamantra.jpg",
+            "media_file": "https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/bhajan/audio/3246259Maha-Mrityunjaya-Mantra-Audio.mp3",
+            "artist_name": "Anuradha Paudwal",
+            "artist_image": "https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/bhajan/artist_images/1921748anuradha.jpg",
+            "category": "0",
+            "related_guru": "7,9",
+            "likes": "0",
+            "creation_time": "1522753463423",
+            "status": "0",
+            "direct_play": "1",
+            "is_like": "0"
+        },
+        {
+            "id": "6",
+            "title": " Aarti Kunj Bihari Ki (Anuradha Paudwal)",
+            "description": " Aarti Kunj Bihari Ki (Anuradha Paudwal)",
+            "image": "https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/bhajan/thumbnails/85946Aarti-Vol-3-1989-500x500.jpg",
+            "media_file": "https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/bhajan/audio/3926248Aarti-Kunj-Bihari-Ki-%28Anuradha-Paudwal%29.mp3",
+            "artist_name": "Anuradha Paudwal",
+            "artist_image": "https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/bhajan/artist_images/849195anuradha.jpg",
+            "category": "1",
+            "related_guru": "13,14",
+            "likes": "1",
+            "creation_time": "1522753487572",
+            "status": "0",
+            "direct_play": "1",
+            "is_like": "0"
+        }
+    ],
+    "error": []
+}
+********************************************************************************************
+***********************************************
+
+28. Get Banners
+
+http://ec2-13-127-166-4.ap-south-1.compute.amazonaws.com/index.php/data_model/videos/Video_control/get_banners
+
+Request (POST ) :
+user_id
+
+
+Response :
+{
+    "status": true,
+    "message": "Success.",
+    "data": [
+        {
+            "id": "2",
+            "title": "banner1",
+            "image": "https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/banner/thumbnails/3223706banner1.jpg",
+            "position": "1",
+            "published_date": "2018-05-01",
+            "status": "0",
+            "creation_time": "1525256419745"
+        },
+        {
+            "id": "4",
+            "title": "banner3",
+            "image": "https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/banner/thumbnails/2455062banner3.jpg",
+            "position": "3",
+            "published_date": "2018-05-02",
+            "status": "0",
+            "creation_time": "1525256475057"
+        },
+        {
+            "id": "5",
+            "title": "banner4",
+            "image": "https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/banner/thumbnails/3852071banner4.jpg",
+            "position": "4",
+            "published_date": "2018-05-02",
+            "status": "0",
+            "creation_time": "1525256488232"
+        },
+        {
+            "id": "6",
+            "title": "banner5",
+            "image": "https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/banner/thumbnails/7356756banner5.jpg",
+            "position": "5",
+            "published_date": "2018-05-02",
+            "status": "0",
+            "creation_time": "1525256656764"
+        }
+    ],
+    "error": []
+}
+*******************************************88

@@ -1,0 +1,41 @@
+<?php
+
+if (!defined('BASEPATH'))
+    exit('No direct script access allowed');
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+class Pass_management_model extends CI_Model {
+
+    function __construct() {
+        parent::__construct();
+    }
+    
+//XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---> GET VISITOR DETAILS BLOG START <---XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX        
+  public function get_visitor_details($id) {
+        $this->db->where('id', $id);
+        $result = $this->db->get('visitor')->row_array();
+        return $result;
+    }
+
+//XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---> GET VISITOR DETAILS BLOG END <---XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX                
+
+//XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---> ATTENDANCE DEVICE BLOG START <---XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX        
+  public function enable_disable_visitor($id, $status) {
+        if ($status == 0) {
+            $data['status'] = 1;
+        }
+        if ($status == 1) {
+            $data['status'] = 0;
+        }
+        $data['modified_time'] = milliseconds();
+        $this->db->where('id', $id);
+        $result = $this->db->update('visitor', $data);
+        return $result;
+    }
+
+//XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---> ATTENDANCE DEVICE BLOG END <---XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX            
+}

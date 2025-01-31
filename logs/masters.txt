@@ -1,0 +1,16 @@
+Time: 2021-12-08, 12:49:03
+url: https://sep.sanskargroup.in/masters
+Request {"name":"Rabish mishra","mobile":"9927274390","to_whome":"MANOJ TYAGI","emp_code":"SANS-00079","in_time":"","arogya_setu_status":"1","address":"delhi"}
+Request {"image":{"name":"cropped2735529240031596378.jpg","type":"image\/*","tmp_name":"\/tmp\/phpyzvvvc","error":0,"size":664939}}
+Time: 2021-12-10, 12:15:32
+url: https://sep.sanskargroup.in/masters
+Request {"name":"Ravindar+1","mobile":"8800664014","to_whome":"PULAK GARG","emp_code":"SANS-00042","in_time":"","arogya_setu_status":"1","address":"samsung noida"}
+Request {"image":{"name":"cropped5179451212077591527.jpg","type":"image\/*","tmp_name":"\/tmp\/phpnHf0b3","error":0,"size":987076}}
+Time: 2021-12-11, 13:32:04
+url: https://sep.sanskargroup.in/masters
+Request {"name":"Sohail","mobile":"9953730301","to_whome":"PULAK GARG","emp_code":"SANS-00042","in_time":"","arogya_setu_status":"1","address":"shiwalik new delhi"}
+Request {"image":{"name":"cropped6985464803033326310.jpg","type":"image\/*","tmp_name":"\/tmp\/phpwaSoOx","error":0,"size":897213}}
+Time: 2021-12-15, 16:32:23
+url: https://sep.sanskargroup.in/masters
+Request {"name":"Madhur","mobile":"7895048913","to_whome":"Sanjay Mishra","emp_code":"SANS-00191","in_time":"","arogya_setu_status":"1","address":"Ghaziabad"}
+Request {"image":{"name":"cropped4359245752213487455.jpg","type":"image\/*","tmp_name":"\/tmp\/php7jgMKK","error":0,"size":534149}}

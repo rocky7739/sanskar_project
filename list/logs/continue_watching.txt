@@ -1,0 +1,615 @@
+
+////////////31-Mar-2021, 12:58:03 PM/////////////
+Time: 2021-03-31, 12:58:03
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"user_id":"21705","type":"2","season_id":"1","media_id":"1","pause_at":"9320","status":"0"}
+
+////////////31-Mar-2021, 12:58:40 PM/////////////
+Time: 2021-03-31, 12:58:40
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"user_id":"21705","type":"2","season_id":"1","media_id":"1","pause_at":"666678","status":"0"}
+
+////////////31-Mar-2021, 01:00:20 PM/////////////
+Time: 2021-03-31, 13:00:20
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"user_id":"21705","type":"2","season_id":"1","media_id":"1","pause_at":"666737","status":"0"}
+
+////////////31-Mar-2021, 01:00:33 PM/////////////
+Time: 2021-03-31, 13:00:33
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"user_id":"21705","type":"2","season_id":"1","media_id":"","pause_at":"2722","status":"0"}
+
+////////////31-Mar-2021, 01:01:06 PM/////////////
+Time: 2021-03-31, 13:01:06
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"user_id":"21705","type":"2","season_id":"1","media_id":"1","pause_at":"6360","status":"0"}
+
+////////////31-Mar-2021, 01:01:19 PM/////////////
+Time: 2021-03-31, 13:01:19
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"user_id":"21705","type":"2","season_id":"5","media_id":"4","pause_at":"4032","status":"0"}
+
+////////////31-Mar-2021, 01:01:25 PM/////////////
+Time: 2021-03-31, 13:01:25
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"user_id":"21705","type":"2","season_id":"5","media_id":"4","pause_at":"4080","status":"0"}
+
+////////////31-Mar-2021, 01:01:40 PM/////////////
+Time: 2021-03-31, 13:01:40
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"user_id":"21705","type":"2","season_id":"5","media_id":"4","pause_at":"2920","status":"0"}
+
+////////////31-Mar-2021, 01:03:18 PM/////////////
+Time: 2021-03-31, 13:03:18
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"user_id":"21705","type":"2","season_id":"11","media_id":"19","pause_at":"5419","status":"0"}
+
+////////////31-Mar-2021, 04:28:25 PM/////////////
+Time: 2021-03-31, 16:28:25
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"user_id":"21705","type":"2","season_id":"11","media_id":"19","pause_at":"1551488","status":"1"}
+
+////////////31-Mar-2021, 04:29:08 PM/////////////
+Time: 2021-03-31, 16:29:08
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"user_id":"21705","type":"1","media_id":"814","pause_at":"36626","status":"0"}
+
+////////////31-Mar-2021, 04:29:17 PM/////////////
+Time: 2021-03-31, 16:29:17
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"user_id":"21705","type":"2","season_id":"5","media_id":"4","pause_at":"5560","status":"0"}
+
+////////////31-Mar-2021, 04:29:24 PM/////////////
+Time: 2021-03-31, 16:29:24
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"user_id":"21705","type":"2","season_id":"1","media_id":"1","pause_at":"4640","status":"0"}
+
+////////////01-Apr-2021, 11:12:11 AM/////////////
+Time: 2021-04-01, 11:12:11
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"type":"1","media_id":"840","status":"0","pause_at":"2.914441712","user_id":"163"}
+
+////////////01-Apr-2021, 11:12:24 AM/////////////
+Time: 2021-04-01, 11:12:24
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"status":"0","type":"1","media_id":"804","user_id":"163","pause_at":"1.394601991"}
+
+////////////01-Apr-2021, 11:12:54 AM/////////////
+Time: 2021-04-01, 11:12:54
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"type":"1","status":"0","user_id":"163","media_id":"804","pause_at":"59.60188674926758"}
+
+////////////01-Apr-2021, 11:13:04 AM/////////////
+Time: 2021-04-01, 11:13:04
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"status":"0","media_id":"804","user_id":"163","pause_at":"61.626477936","type":"1"}
+
+////////////01-Apr-2021, 12:35:09 PM/////////////
+Time: 2021-04-01, 12:35:09
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"pause_at":"0","type":"1","media_id":"864","status":"1","user_id":"163"}
+
+////////////01-Apr-2021, 12:35:19 PM/////////////
+Time: 2021-04-01, 12:35:19
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"user_id":"163","type":"1","media_id":"839","pause_at":"2.354286108","status":"0"}
+
+////////////01-Apr-2021, 02:47:39 PM/////////////
+Time: 2021-04-01, 14:47:39
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"status":"0","media_id":"780","pause_at":"2.94880276","type":"1","user_id":"163"}
+
+////////////01-Apr-2021, 02:55:08 PM/////////////
+Time: 2021-04-01, 14:55:08
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"user_id":"21772","type":"2","media_id":"11","pause_at":"1120","status":"0"}
+
+////////////01-Apr-2021, 04:23:04 PM/////////////
+Time: 2021-04-01, 16:23:04
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"media_id":"782","pause_at":"1.430125039","status":"0","user_id":"21772","type":"1"}
+
+////////////01-Apr-2021, 04:48:08 PM/////////////
+Time: 2021-04-01, 16:48:08
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"type":"1","media_id":"840","user_id":"21767","pause_at":"9.796144000277954","status":"0"}
+
+////////////01-Apr-2021, 05:36:16 PM/////////////
+Time: 2021-04-01, 17:36:16
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"user_id":"21772","type":"2","media_id":"1","pause_at":"0","status":"0"}
+
+////////////01-Apr-2021, 05:36:24 PM/////////////
+Time: 2021-04-01, 17:36:24
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"user_id":"21772","type":"2","media_id":"1","pause_at":"0","status":"0"}
+
+////////////01-Apr-2021, 05:36:31 PM/////////////
+Time: 2021-04-01, 17:36:31
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"user_id":"21772","type":"2","media_id":"1","pause_at":"0","status":"0"}
+
+////////////01-Apr-2021, 05:36:58 PM/////////////
+Time: 2021-04-01, 17:36:58
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"user_id":"21772","type":"2","media_id":"1","pause_at":"968","status":"0"}
+
+////////////01-Apr-2021, 05:37:18 PM/////////////
+Time: 2021-04-01, 17:37:18
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"user_id":"21772","type":"2","media_id":"7","pause_at":"800","status":"0"}
+
+////////////01-Apr-2021, 05:46:05 PM/////////////
+Time: 2021-04-01, 17:46:05
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"user_id":"21772","type":"2","media_id":"7","pause_at":"800","status":"0"}
+
+////////////03-Apr-2021, 10:40:00 AM/////////////
+Time: 2021-04-03, 10:40:00
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"type":"1","pause_at":"5.135851553","status":"0","user_id":"163","media_id":"780"}
+
+////////////03-Apr-2021, 11:49:44 AM/////////////
+Time: 2021-04-03, 11:49:44
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"user_id":"163","media_id":"840","type":"1","pause_at":"2.270157842","status":"0"}
+
+////////////03-Apr-2021, 01:03:20 PM/////////////
+Time: 2021-04-03, 13:03:20
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"user_id":"21789","type":"2","season_id":"14","media_id":"","pause_at":"1280","status":"0"}
+
+////////////03-Apr-2021, 01:03:26 PM/////////////
+Time: 2021-04-03, 13:03:26
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"user_id":"21789","type":"2","season_id":"14","media_id":"","pause_at":"1198","status":"0"}
+
+////////////03-Apr-2021, 01:03:40 PM/////////////
+Time: 2021-04-03, 13:03:40
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"user_id":"21789","type":"2","season_id":"14","media_id":"","pause_at":"0","status":"0"}
+
+////////////03-Apr-2021, 01:03:51 PM/////////////
+Time: 2021-04-03, 13:03:51
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"user_id":"21789","type":"2","season_id":"14","media_id":"","pause_at":"0","status":"0"}
+
+////////////03-Apr-2021, 01:03:58 PM/////////////
+Time: 2021-04-03, 13:03:58
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"user_id":"21789","type":"2","season_id":"14","media_id":"","pause_at":"0","status":"0"}
+
+////////////03-Apr-2021, 01:04:11 PM/////////////
+Time: 2021-04-03, 13:04:11
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"user_id":"21789","type":"2","season_id":"14","media_id":"23","pause_at":"0","status":"0"}
+
+////////////03-Apr-2021, 02:23:07 PM/////////////
+Time: 2021-04-03, 14:23:07
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"user_id":"21789","type":"2","season_id":"1","media_id":"1","pause_at":"1885","status":"0"}
+
+////////////03-Apr-2021, 02:27:03 PM/////////////
+Time: 2021-04-03, 14:27:03
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"pause_at":"4.132020741","status":"0","user_id":"163","media_id":"","type":"2"}
+
+////////////03-Apr-2021, 02:29:41 PM/////////////
+Time: 2021-04-03, 14:29:41
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"pause_at":"2.120364854","type":"2","status":"0","user_id":"163","media_id":"1"}
+
+////////////03-Apr-2021, 02:33:38 PM/////////////
+Time: 2021-04-03, 14:33:38
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"user_id":"163","season_id":"1","status":"0","type":"2","media_id":"1","pause_at":"3.00569573"}
+
+////////////03-Apr-2021, 02:36:40 PM/////////////
+Time: 2021-04-03, 14:36:40
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"type":"2","season_id":"","user_id":"163","pause_at":"0","media_id":"","status":"0"}
+
+////////////03-Apr-2021, 02:37:04 PM/////////////
+Time: 2021-04-03, 14:37:04
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"type":"2","season_id":"","media_id":"","pause_at":"0","user_id":"163","status":"0"}
+
+////////////03-Apr-2021, 02:40:46 PM/////////////
+Time: 2021-04-03, 14:40:46
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"user_id":"163","media_id":"1","pause_at":"1058.233864256","season_id":"1","status":"0","type":"2"}
+
+////////////03-Apr-2021, 02:43:37 PM/////////////
+Time: 2021-04-03, 14:43:37
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"pause_at":"0","user_id":"163","type":"1","status":"1","media_id":""}
+
+////////////03-Apr-2021, 02:46:04 PM/////////////
+Time: 2021-04-03, 14:46:04
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"media_id":"","type":"1","pause_at":"0","status":"1","user_id":"163"}
+
+////////////03-Apr-2021, 02:46:49 PM/////////////
+Time: 2021-04-03, 14:46:49
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"user_id":"21772","type":"2","media_id":"1","pause_at":"3372","status":"0"}
+
+////////////03-Apr-2021, 02:48:10 PM/////////////
+Time: 2021-04-03, 14:48:10
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"user_id":"21789","type":"2","season_id":"1","media_id":"1","pause_at":"872","status":"0"}
+
+////////////03-Apr-2021, 02:48:30 PM/////////////
+Time: 2021-04-03, 14:48:30
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"user_id":"21789","type":"2","season_id":"1","media_id":"1","pause_at":"3295","status":"0"}
+
+////////////03-Apr-2021, 02:48:41 PM/////////////
+Time: 2021-04-03, 14:48:41
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"user_id":"21789","type":"2","season_id":"1","media_id":"1","pause_at":"641310","status":"0"}
+
+////////////03-Apr-2021, 02:48:57 PM/////////////
+Time: 2021-04-03, 14:48:57
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"user_id":"21789","type":"2","season_id":"1","media_id":"1","pause_at":"1610","status":"0"}
+
+////////////03-Apr-2021, 02:49:21 PM/////////////
+Time: 2021-04-03, 14:49:21
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"user_id":"21789","type":"2","season_id":"1","media_id":"1","pause_at":"3425","status":"0"}
+
+////////////03-Apr-2021, 02:49:31 PM/////////////
+Time: 2021-04-03, 14:49:31
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"user_id":"21789","type":"2","season_id":"1","media_id":"1","pause_at":"930","status":"0"}
+
+////////////03-Apr-2021, 02:49:41 PM/////////////
+Time: 2021-04-03, 14:49:41
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"user_id":"21789","type":"1","media_id":"864","pause_at":"0","status":"0"}
+
+////////////03-Apr-2021, 02:49:52 PM/////////////
+Time: 2021-04-03, 14:49:52
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"user_id":"21789","type":"1","media_id":"840","pause_at":"2090","status":"0"}
+
+////////////03-Apr-2021, 02:50:02 PM/////////////
+Time: 2021-04-03, 14:50:02
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"user_id":"21789","type":"1","media_id":"840","pause_at":"2441","status":"0"}
+
+////////////03-Apr-2021, 02:50:11 PM/////////////
+Time: 2021-04-03, 14:50:11
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"user_id":"21789","type":"2","season_id":"1","media_id":"1","pause_at":"1050","status":"0"}
+
+////////////03-Apr-2021, 02:50:31 PM/////////////
+Time: 2021-04-03, 14:50:31
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"user_id":"21789","type":"1","media_id":"840","pause_at":"9305","status":"0"}
+
+////////////03-Apr-2021, 02:50:50 PM/////////////
+Time: 2021-04-03, 14:50:50
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"pause_at":"0","media_id":"","user_id":"163","type":"1","status":"1"}
+
+////////////03-Apr-2021, 02:51:27 PM/////////////
+Time: 2021-04-03, 14:51:27
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"user_id":"21789","type":"2","season_id":"14","media_id":"23","pause_at":"1942","status":"0"}
+
+////////////03-Apr-2021, 02:51:36 PM/////////////
+Time: 2021-04-03, 14:51:36
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"user_id":"21789","type":"2","season_id":"14","media_id":"23","pause_at":"2160","status":"0"}
+
+////////////03-Apr-2021, 02:51:46 PM/////////////
+Time: 2021-04-03, 14:51:46
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"user_id":"21789","type":"2","season_id":"14","media_id":"23","pause_at":"0","status":"0"}
+
+////////////03-Apr-2021, 02:55:26 PM/////////////
+Time: 2021-04-03, 14:55:26
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"type":"1","user_id":"163","media_id":"840","status":"0","pause_at":"173.88966"}
+
+////////////03-Apr-2021, 03:00:51 PM/////////////
+Time: 2021-04-03, 15:00:51
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"type":"1","media_id":"780","pause_at":"536","status":"0","user_id":"163"}
+
+////////////03-Apr-2021, 03:01:12 PM/////////////
+Time: 2021-04-03, 15:01:12
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"media_id":"780","user_id":"163","pause_at":"224.74368","status":"0","type":"1"}
+
+////////////03-Apr-2021, 03:02:09 PM/////////////
+Time: 2021-04-03, 15:02:09
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"media_id":"780","pause_at":"226.466144068","user_id":"163","type":"1","status":"0"}
+
+////////////03-Apr-2021, 03:02:21 PM/////////////
+Time: 2021-04-03, 15:02:21
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"type":"1","media_id":"839","pause_at":"5.851481148","user_id":"163","status":"0"}
+
+////////////03-Apr-2021, 03:03:40 PM/////////////
+Time: 2021-04-03, 15:03:40
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"user_id":"163","pause_at":"1.891554608","status":"0","type":"1","media_id":"808"}
+
+////////////03-Apr-2021, 03:03:58 PM/////////////
+Time: 2021-04-03, 15:03:58
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"user_id":"163","type":"1","media_id":"808","pause_at":"29.776698142","status":"0"}
+
+////////////03-Apr-2021, 03:40:03 PM/////////////
+Time: 2021-04-03, 15:40:03
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"user_id":"21773","type":"2","season_id":"1","media_id":"1","pause_at":"6615","status":"0"}
+
+////////////03-Apr-2021, 03:41:47 PM/////////////
+Time: 2021-04-03, 15:41:47
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"user_id":"21773","type":"2","season_id":"1","media_id":"1","pause_at":"1240","status":"0"}
+
+////////////03-Apr-2021, 03:45:04 PM/////////////
+Time: 2021-04-03, 15:45:04
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"user_id":"21773","type":"2","season_id":"1","media_id":"1","pause_at":"1240","status":"0"}
+
+////////////03-Apr-2021, 05:24:59 PM/////////////
+Time: 2021-04-03, 17:24:59
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"user_id":"21759","type":"1","media_id":"864","pause_at":"0","status":"0"}
+
+////////////03-Apr-2021, 05:28:21 PM/////////////
+Time: 2021-04-03, 17:28:21
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"user_id":"21759","type":"2","season_id":"1","media_id":"","pause_at":"1882","status":"0"}
+
+////////////03-Apr-2021, 05:31:21 PM/////////////
+Time: 2021-04-03, 17:31:21
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"user_id":"21759","type":"2","season_id":"1","media_id":"10","pause_at":"71800","status":"0"}
+
+////////////03-Apr-2021, 05:35:14 PM/////////////
+Time: 2021-04-03, 17:35:14
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"user_id":"21759","type":"1","media_id":"828","pause_at":"65651","status":"0"}
+
+////////////03-Apr-2021, 05:35:52 PM/////////////
+Time: 2021-04-03, 17:35:52
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"user_id":"21759","type":"1","media_id":"828","pause_at":"65720","status":"0"}
+
+////////////03-Apr-2021, 05:39:04 PM/////////////
+Time: 2021-04-03, 17:39:04
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"user_id":"21759","type":"2","season_id":"5","media_id":"4","pause_at":"85167","status":"0"}
+
+////////////03-Apr-2021, 05:39:17 PM/////////////
+Time: 2021-04-03, 17:39:17
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"user_id":"21759","type":"2","season_id":"1","media_id":"1","pause_at":"0","status":"0"}
+
+////////////03-Apr-2021, 05:39:19 PM/////////////
+Time: 2021-04-03, 17:39:19
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"user_id":"21759","type":"2","season_id":"1","media_id":"","pause_at":"282","status":"0"}
+
+////////////05-Apr-2021, 10:25:29 AM/////////////
+Time: 2021-04-05, 10:25:29
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"type":"1","status":"0","media_id":"808","user_id":"163","pause_at":"31.993362056"}
+
+////////////05-Apr-2021, 10:35:04 AM/////////////
+Time: 2021-04-05, 10:35:04
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"type":"1","pause_at":"1.57396739","media_id":"840","user_id":"163","status":"0"}
+
+////////////05-Apr-2021, 10:50:04 AM/////////////
+Time: 2021-04-05, 10:50:04
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"type":"1","media_id":"840","pause_at":"4.785048173","status":"0","user_id":"163"}
+
+////////////05-Apr-2021, 10:50:10 AM/////////////
+Time: 2021-04-05, 10:50:10
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"status":"0","user_id":"163","type":"1","pause_at":"0","media_id":"133"}
+
+////////////05-Apr-2021, 10:50:28 AM/////////////
+Time: 2021-04-05, 10:50:28
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"status":"1","media_id":"864","pause_at":"0","user_id":"163","type":"1"}
+
+////////////05-Apr-2021, 10:50:37 AM/////////////
+Time: 2021-04-05, 10:50:37
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"type":"1","pause_at":"1.655138335","status":"0","user_id":"163","media_id":"840"}
+
+////////////05-Apr-2021, 10:50:49 AM/////////////
+Time: 2021-04-05, 10:50:49
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"user_id":"163","pause_at":"1.972273875","status":"0","media_id":"827","type":"1"}
+
+////////////05-Apr-2021, 10:52:12 AM/////////////
+Time: 2021-04-05, 10:52:12
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"status":"0","type":"1","media_id":"792","pause_at":"74.586749662","user_id":"163"}
+
+////////////05-Apr-2021, 10:52:15 AM/////////////
+Time: 2021-04-05, 10:52:15
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"type":"1","status":"1","user_id":"163","media_id":"864","pause_at":"0"}
+
+////////////05-Apr-2021, 10:59:20 AM/////////////
+Time: 2021-04-05, 10:59:20
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"status":"0","type":"1","user_id":"163","pause_at":"6.613005941","media_id":"840"}
+
+////////////05-Apr-2021, 11:07:13 AM/////////////
+Time: 2021-04-05, 11:07:13
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"type":"1","user_id":"21772","media_id":"840","status":"0","pause_at":"2.33228303"}
+
+////////////05-Apr-2021, 11:10:29 AM/////////////
+Time: 2021-04-05, 11:10:29
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"pause_at":"3.738384207","status":"0","media_id":"816","type":"1","user_id":"21772"}
+
+////////////05-Apr-2021, 11:10:49 AM/////////////
+Time: 2021-04-05, 11:10:49
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"type":"1","user_id":"21772","media_id":"814","pause_at":"12.48182025","status":"0"}
+
+////////////05-Apr-2021, 11:10:58 AM/////////////
+Time: 2021-04-05, 11:10:58
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"media_id":"814","status":"0","type":"1","pause_at":"2.7447555555555554","user_id":"21772"}
+
+////////////05-Apr-2021, 11:11:19 AM/////////////
+Time: 2021-04-05, 11:11:19
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"user_id":"21772","type":"1","pause_at":"0","media_id":"741","status":"0"}
+
+////////////05-Apr-2021, 12:17:56 PM/////////////
+Time: 2021-04-05, 12:17:56
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"status":"0","type":"1","media_id":"763","user_id":"21772","pause_at":"27.195163589"}
+
+////////////05-Apr-2021, 12:23:14 PM/////////////
+Time: 2021-04-05, 12:23:14
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"user_id":"21772","type":"1","status":"1","pause_at":"304.367109375","media_id":"681"}
+
+////////////07-Apr-2021, 12:32:22 PM/////////////
+Time: 2021-04-07, 12:32:22
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"pause_at":"22.961848276","status":"0","season_id":"7","media_id":"6","type":"2","user_id":"21772"}
+
+////////////07-Apr-2021, 12:38:51 PM/////////////
+Time: 2021-04-07, 12:38:51
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"season_id":"7","type":"2","status":"0","media_id":"6","pause_at":"6.374184211","user_id":"21772"}
+
+////////////07-Apr-2021, 12:43:04 PM/////////////
+Time: 2021-04-07, 12:43:04
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"pause_at":"3.806179295","season_id":"7","user_id":"21772","type":"2","media_id":"6","status":"0"}
+
+////////////07-Apr-2021, 12:47:54 PM/////////////
+Time: 2021-04-07, 12:47:54
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"media_id":"6","season_id":"7","pause_at":"23.00985682","status":"0","user_id":"21772","type":"2"}
+
+////////////07-Apr-2021, 12:49:01 PM/////////////
+Time: 2021-04-07, 12:49:01
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"media_id":"6","type":"2","season_id":"7","user_id":"21772","pause_at":"1.862124342","status":"0"}
+
+////////////07-Apr-2021, 01:00:14 PM/////////////
+Time: 2021-04-07, 13:00:14
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"type":"2","user_id":"21772","pause_at":"2.781180411","status":"0","media_id":"1","season_id":"1"}
+
+////////////07-Apr-2021, 01:02:37 PM/////////////
+Time: 2021-04-07, 13:02:37
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"user_id":"21772","type":"2","season_id":"7","pause_at":"2.066685875","status":"0","media_id":"6"}
+
+////////////07-Apr-2021, 01:04:19 PM/////////////
+Time: 2021-04-07, 13:04:19
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"user_id":"21772","season_id":"7","type":"2","media_id":"6","pause_at":"1.592676513","status":"0"}
+
+////////////07-Apr-2021, 01:04:35 PM/////////////
+Time: 2021-04-07, 13:04:35
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"season_id":"1","type":"2","media_id":"1","pause_at":"1.632807383","status":"0","user_id":"21772"}
+
+////////////07-Apr-2021, 01:05:15 PM/////////////
+Time: 2021-04-07, 13:05:15
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"user_id":"21772","status":"0","type":"2","season_id":"7","pause_at":"3815.143782339","media_id":"6"}
+
+////////////07-Apr-2021, 01:06:12 PM/////////////
+Time: 2021-04-07, 13:06:12
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"user_id":"21772","media_id":"6","season_id":"7","pause_at":"2.147935984","type":"2","status":"0"}
+
+////////////07-Apr-2021, 01:09:33 PM/////////////
+Time: 2021-04-07, 13:09:33
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"season_id":"7","pause_at":"8075.076480727","status":"0","media_id":"6","user_id":"21772","type":"2"}
+
+////////////07-Apr-2021, 01:09:53 PM/////////////
+Time: 2021-04-07, 13:09:53
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"media_id":"6","user_id":"21772","status":"0","pause_at":"1.430871414","season_id":"7","type":"2"}
+
+////////////07-Apr-2021, 01:15:37 PM/////////////
+Time: 2021-04-07, 13:15:37
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"media_id":"6","pause_at":"4.034065253","status":"0","type":"2","user_id":"21772","season_id":"7"}
+
+////////////07-Apr-2021, 01:15:57 PM/////////////
+Time: 2021-04-07, 13:15:57
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"user_id":"21772","pause_at":"3.771651206","type":"2","status":"0","media_id":"6","season_id":"7"}
+
+////////////07-Apr-2021, 01:16:17 PM/////////////
+Time: 2021-04-07, 13:16:17
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"season_id":"7","type":"2","user_id":"21772","media_id":"6","pause_at":"3.771651206","status":"0"}
+
+////////////07-Apr-2021, 01:16:38 PM/////////////
+Time: 2021-04-07, 13:16:38
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"media_id":"4","type":"2","pause_at":"12.00408179","status":"0","season_id":"5","user_id":"21772"}
+
+////////////07-Apr-2021, 01:21:18 PM/////////////
+Time: 2021-04-07, 13:21:18
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"user_id":"21772","season_id":"14","pause_at":"1.880969023","status":"0","media_id":"23","type":"2"}
+
+////////////07-Apr-2021, 02:27:06 PM/////////////
+Time: 2021-04-07, 14:27:06
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"media_id":"19","season_id":"11","pause_at":"2.159824352","status":"0","user_id":"21772","type":"2"}
+
+////////////07-Apr-2021, 02:54:24 PM/////////////
+Time: 2021-04-07, 14:54:24
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"type":"1","media_id":"840","pause_at":"26.974775950888183","user_id":"163","status":"0"}
+
+////////////07-Apr-2021, 02:54:42 PM/////////////
+Time: 2021-04-07, 14:54:42
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"media_id":"6","type":"2","status":"0","season_id":"7","pause_at":"7.584154834463257","user_id":"163"}
+
+////////////07-Apr-2021, 06:37:49 PM/////////////
+Time: 2021-04-07, 18:37:49
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"user_id":"21773","type":"2","media_id":"1","pause_at":"14322","status":"0"}
+
+////////////08-Apr-2021, 04:14:04 PM/////////////
+Time: 2021-04-08, 16:14:04
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"status":"0","user_id":"163","pause_at":"0.7044758401149902","type":"1","media_id":"795"}
+
+////////////08-Apr-2021, 04:47:52 PM/////////////
+Time: 2021-04-08, 16:47:52
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"status":"1","user_id":"163","type":"0","media_id":"799","pause_at":""}
+
+////////////08-Apr-2021, 05:24:44 PM/////////////
+Time: 2021-04-08, 17:24:44
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"media_id":"811","pause_at":"223.581221329","status":"0","user_id":"163","type":"1"}
+
+////////////10-Apr-2021, 06:56:02 PM/////////////
+Time: 2021-04-10, 18:56:02
+url: https://app.sanskargroup.in/sanskar_development/api_panel/Videos/continue_watching
+Request {"status":"0","user_id":"163","media_id":"1","pause_at":"14.2727928495719","season_id":"1","type":"2"}

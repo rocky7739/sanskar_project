@@ -1,0 +1,40 @@
+Time: 2021-07-19, 18:40:55
+url: https://employeeapp.sanskargroup.in/sanskar_employee_portal/masters
+Request {"name":"Amit tyagi","mobile":"798249964","to_whome":"Pulak ji","in_time":"","address":"noida"}
+Request {"image":{"name":"cropped6299235253663253860.jpg","type":"image\/*","tmp_name":"D:\\Inetpub\\vhosts\\sanskargroup.in\\tmp\\phpD828.tmp","error":0,"size":480916}}
+Time: 2021-07-20, 11:02:39
+url: https://employeeapp.sanskargroup.in/sanskar_employee_portal/masters
+Request {"name":"Ariph Husain","mobile":"7982499642","to_whome":"Pulak Garg","in_time":"","address":"Noida"}
+Request {"image":{"name":"joker.jpg","type":"image\/jpeg","tmp_name":"D:\\Inetpub\\vhosts\\sanskargroup.in\\tmp\\phpA2EA.tmp","error":0,"size":39341}}
+Time: 2021-07-20, 14:10:54
+url: https://employeeapp.sanskargroup.in/sanskar_employee_portal/masters
+Request {"name":"Ariph Husain","mobile":"7982499640","to_whome":"Pulak Garg","in_time":"","address":"Noida"}
+Request {"image":{"name":"joker.jpg","type":"image\/jpeg","tmp_name":"D:\\Inetpub\\vhosts\\sanskargroup.in\\tmp\\phpFC03.tmp","error":0,"size":39341}}
+Time: 2021-07-22, 15:09:11
+url: https://employeeapp.sanskargroup.in/sanskar_employee_portal/masters
+Request {"name":"Ashok Kumar","mobile":"9616102020","to_whome":"Pulak Garg","in_time":"","address":"Noida","arogya_setu_status":"1"}
+Request {"image":{"name":"guru 1.jpg","type":"image\/jpeg","tmp_name":"D:\\Inetpub\\vhosts\\sanskargroup.in\\tmp\\php5CC.tmp","error":0,"size":55355}}
+Time: 2021-07-22, 16:44:59
+url: https://employeeapp.sanskargroup.in/sanskar_employee_portal/masters
+Request {"name":"Ashok kumar","mobile":"7982499642","to_whome":"Ariph Husain","emp_code":"SANS-00278","in_time":"","arogya_setu_status":"1","address":"sector 26\nnoida"}
+Request {"image":{"name":"cropped2616256095647335010.jpg","type":"image\/*","tmp_name":"D:\\Inetpub\\vhosts\\sanskargroup.in\\tmp\\phpBBA6.tmp","error":0,"size":587304}}
+Time: 2021-07-22, 16:47:06
+url: https://employeeapp.sanskargroup.in/sanskar_employee_portal/masters
+Request {"name":"Manoj ji","mobile":"9540261131","to_whome":"chandrakant agarwal","emp_code":"","in_time":"","arogya_setu_status":"2","address":"sector 63\nnoida"}
+Request {"image":{"name":"cropped7792322564454666590.jpg","type":"image\/*","tmp_name":"D:\\Inetpub\\vhosts\\sanskargroup.in\\tmp\\phpAB03.tmp","error":0,"size":663569}}
+Time: 2021-07-22, 18:50:44
+url: https://employeeapp.sanskargroup.in/sanskar_employee_portal/masters
+Request {"name":"Sanjay kumar","mobile":"7982499642","to_whome":"Amit Tyagi","emp_code":"SANS-00038","in_time":"","arogya_setu_status":"1","address":"sector 63\nnoida"}
+Request {"image":{"name":"cropped4906545572565251894.jpg","type":"image\/*","tmp_name":"D:\\Inetpub\\vhosts\\sanskargroup.in\\tmp\\phpDC2E.tmp","error":0,"size":309545}}
+Time: 2021-07-22, 18:51:42
+url: https://employeeapp.sanskargroup.in/sanskar_employee_portal/masters
+Request {"name":"Shantanu chaudhary","mobile":"9540261131","to_whome":"tomar pavan","emp_code":"","in_time":"","arogya_setu_status":"2","address":"sector 72\nnoida"}
+Request {"image":{"name":"cropped2702728616689826005.jpg","type":"image\/*","tmp_name":"D:\\Inetpub\\vhosts\\sanskargroup.in\\tmp\\phpBE04.tmp","error":0,"size":437685}}
+Time: 2021-07-22, 18:57:40
+url: https://employeeapp.sanskargroup.in/sanskar_employee_portal/masters
+Request {"name":"Sanjay kumar","mobile":"798249962","to_whome":"Amit Tyagi","emp_code":"SANS-00038","in_time":"","arogya_setu_status":"1","address":"noida"}
+Request {"image":{"name":"cropped8426364927549980831.jpg","type":"image\/*","tmp_name":"D:\\Inetpub\\vhosts\\sanskargroup.in\\tmp\\php352E.tmp","error":0,"size":547267}}
+Time: 2021-07-22, 19:09:39
+url: https://employeeapp.sanskargroup.in/sanskar_employee_portal/masters
+Request {"name":"Sanjay kumar","mobile":"798249942","to_whome":"Apurva srivastava","emp_code":"SANS-00201","in_time":"","arogya_setu_status":"1","address":"noida"}
+Request {"image":{"name":"cropped3508765044822067009.jpg","type":"image\/*","tmp_name":"D:\\Inetpub\\vhosts\\sanskargroup.in\\tmp\\php2DA7.tmp","error":0,"size":1037438}}
